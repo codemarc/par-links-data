@@ -1,0 +1,94 @@
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+#root {
+  width: 800px;
+  min-height: 360px;
+}
+.imglogo {
+  width: 32px;
+  background-color: white;
+  margin-top:2px;
+  padding: 2px;
+}
+a header {
+  /* color: rgb(30, 135, 240); */
+  /* color: rgb(220,225,9/0); */
+   color:rgb(9,52,80)
+} 
+
+header {
+  height:50px;
+  margin-top: -16px;
+  padding:0;
+}
+.sitelinks > a,
+header a:visited {
+  color: rgb(255, 255, 255);
+}
+header a[target="stock"] {
+  color: rgb(255, 255, 255);
+}
+#root > div:nth-child(1) > header > div > div:nth-child(1) > a > a {
+  text-decoration: none;
+}
+#root > div > div > div > div {
+  box-shadow : none;
+  /* padding-top: 14px; */
+}
+#root > div > header > div > div > a {
+  text-transform: none;
+}
+#root > div > header > div > div > span > div > button {
+  padding: 1px;
+}
+#root > div > header > div > div > span > div  svg {
+  color: rgb(255 255 255);
+  font-size: 20px;
+  border: 1px solid #999;
+  border-radius: 4px; 
+  width: 34px;
+  margin-left: 0px;
+}
+header.css-hip9hq-MuiPaper-root-MuiAppBar-root {
+  box-shadow : none;
+  background-color: #135;
+}
+#root > div > div > div > div > div > div.MuiCardHeader-root {
+  padding: 6px;
+}
+#root > div > div > div > div > div > div.MuiCardContent-root {
+  text-align: left;
+  padding: 6px;
+}
+.MuiCardHeader-title , .MuiCardHeader-content span {
+  border-bottom:  1px solid #e5e5e5;
+  text-decoration: none;
+  text-align: left;
+  font-size: 10pt;
+  font-weight: 600;
+  text-shadow: 1px 1px 1px rgb(220,225,90);
+}
+.MuiCardContent-root {
+  padding: 0;
+}
+.sitelinks {
+  margin-top: -6px;
+  margin-bottom: 0px;
+} 
+dt,dl,dd,dt a,dl a,dd a{
+  margin-inline-start: auto;
+  text-decoration: none;
+  font-size: 9pt;
+  color: #135;
+}
+hr {
+  width: 98%;
+  border: 0;
+  height: 1px;
+  background: rgb(220,225,90);
+  opacity: 0.3;
+  margin-top: 10px;
+}
