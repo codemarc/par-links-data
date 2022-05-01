@@ -1,3 +1,4 @@
+const UPDATED = "20220501"
 const VERSION = "0.0.6"
 const axios = require("axios")
 
@@ -16,8 +17,10 @@ const getData = async () => {
     })
 }
 
-test("we are working", async () => {
+test("checking data object", async () => {
   await getData()
   expect(data).toEqual(expect.objectContaining({version: VERSION}))
   expect(data.hasOwnProperty('config')).toBe(true)
+  expect(data.config.length).toBeGreaterThan(0)
+  expect(data.config.length).toBeLessThan(21)
 })
