@@ -1,408 +1,414 @@
-[
-  {
-    "section": "communicate",
-    "href": "https: //web.microsoftstream.com/browse?view=channel",
-    "title": "Company Meetings",
-    "links": [
-      {
-        "name": "zoom",
-        "href": "https: //partech.zoom.us/meeting#/upcoming",
-        "label2": "ㅤ|ㅤ",
-        "name2": "slack",
-        "href2": "https: //partech.slack.com/messages/general/",
-        "label3": "ㅤ|ㅤ",
-        "name3": "teams",
-        "href3": "https: //go.microsoft.com/fwlink/p/?LinkID=873020&clcid=0x409&culture=en-us&country=US&lm=deeplink&lmsrc=homePageWeb&cmpid=WebSignIn"
-      },
-      {
-        "name": "office",
-        "href": "https: //www.office.com",
-        "label2": "ㅤ|ㅤ",
-        "name2": "mail ",
-        "href2": "https: //outlook.office.com/mail/",
-        "label3": "ㅤ|ㅤ",
-        "name3": " delve",
-        "href3": "https: //nam.delve.office.com/"
-      },
-      {
-        "label": "-",
-        "href": ""
-      },
-      {
-        "name": "ㅤOneDrive - My Sharepointㅤ",
-        "href": "https: //partech-my.sharepoint.com/"
-      },
-      {
-        "label": "-",
-        "name": "PAR hub",
-        "href": "https: //partech.sharepoint.com/",
-        "label2": " • ",
-        "name2": "IT",
-        "href2": "https: //partech.sharepoint.com/sites/PARHub-IT",
-        "label3": " • ",
-        "name3": "Service Desk",
-        "href3": "https: //itservicedesk.partech.com/support/home"
-      }
-    ]
-  },
-  {
-    "section": "source / tools",
-    "href": "https: //www.compart.com/en/unicode/html",
-    "links": [
-      {
-        "name": "book",
-        "href": "https: //book.git-scm.com/book/en/v2",
-        "label2": " | ",
-        "name2": "cheats",
-        "href2": "https: //gist.github.com/codemarc/7e3c37a880e679f8fa310f67cdb29a85",
-        "label3": " | ",
-        "name3": "gists",
-        "href3": "https: //gist.github.com",
-        "label4": " | ",
-        "name4": "insider",
-        "href4": "https: //resources.github.com/github-insider/practitioner/"
-      },
-      {
-        "name": "github:me",
-        "href": "https: //github.com",
-        "label2": " | ",
-        "name2": "as par",
-        "href2": "https: //github.com/par-brink",
-        "label3": " | ",
-        "name3": "as punchh",
-        "href3": "https: //github.com/punchh/"
-      },
-      {
-        "label": "-"
-      },
-      {
-        "name": "bitbucket",
-        "href": "https: //devops.partech.com/bitbucket/projects",
-        "label2": " | ",
-        "name2": "jenkins",
-        "href2": "https: //build.partech.com/teams-brink/"
-      },
-      {
-        "label": "-"
-      },
-      {
-        "name": "azure devOps",
-        "href": "https: //partechnology.visualstudio.com/"
-      }
-    ]
-  },
-  {
-    "section": "learning",
-    "href": "https: //github.com/codemarc/ntmfs",
-    "links": [
-      {
-        "name": "linkedin learning",
-        "href": "https: //www.linkedin.com/learning"
-      },
-      {
-        "name": "pluralsight trial",
-        "href": "https: //app.pluralsight.com/library/"
-      },
-      { "name": "", "href": "" },
-      { "name": "", "href": "" },
-      { "label": "-" },
-      { "name": "a cloud guru", "href": "https: //learn.acloud.guru/dashboard" }
-    ]
-  },
-  {
-    "section": "employee hub",
-    "href": "https: //partech.sharepoint.com/sites/PARHub-HR",
-    "links": [
-      {
-        "label": "paydatesㅤㅤ",
-        "name": "us",
-        "href": "https://partech.sharepoint.com/:b:/r/sites/PARHub-HR/SiteAssets/SitePages/PARHub-HR/2022-PAR-US-Payroll-Calendar.pdf?csf=1&web=1&e=e9XScz",
-        "label2": "ㅤ|ㅤ",
-        "name2": "can",
-        "href2": "https://partech.sharepoint.com/:b:/r/sites/PARHub-HR/SiteAssets/SitePages/PARHub-HR/2022-PAR---Punchh-Canada-Payroll-Calendar.pdf?csf=1&web=1&e=G6UDVX"
-      },
-      {
-        "name": "adp",
-        "href": "https://workforcenow.adp.com/theme/index.html",
-        "label2": " | ",
-        "name2": "cigna",
-        "href2": "https://my.cigna.com/",
-        "label3": " | ",
-        "name3": "concur",
-        "href3": "https: //www.concursolutions.com/",
-        "label4": " | ",
-        "name4": "recruit",
-        "href4": "https://punchh.greenhouse.io/dashboard"
-      },
-      {
-        "name": "lattice people mgmt platform",
-        "href": "https://punchh.latticehq.com/",
-        "title": "Lattice is a people management platform that empowers leaders to build engaged, high-performing teams that inspire winning cultures."
-      },
-      { "name": "", "href": "" },
-      { "label": "-" },
-      {
-        "name": "active directory",
-        "href": "https: //portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Overview",
-        "label2": "ㅤㅤㅤㅤ",
-        "name2": "azure",
-        "href2": "https: //portal.azure.com/#@partech.com/"
-      }
-    ]
-  },
-  {
-    "section": "brink pos",
-    "href": "https: //admin-apiint.brinkpos.net/",
-    "title": "make the experience flawless",
-    "links": [
-      {
-        "name": "roadmap",
-        "href": "https: //docs.google.com/presentation/d/11H-SJ1JtlLlU9iNwfL7LEwjH6HUW2b6H1hNJc-pX5MY/edit#slide=id.g114d3bef194_0_0",
-        "label2": " | ",
-        "name2": "wiki",
-        "href2": "https: //partechnology.atlassian.net/wiki/spaces/BDEV/overview",
-        "label3": " | ",
-        "name3": "jira",
-        "href3": "https: //partechnology.atlassian.net/jira/projects",
-        "label4": " | ",
-        "name4": "arch",
-        "href4": "https: //partechnology.atlassian.net/wiki/spaces/SASS/pages/3629973731/Future+State+Architecture+and+DevOps"
-      },
-      {
-        "name": "documentation portal",
-        "href": "http: //cdn.brinkpos.net/Documentation.html"
-      },
-      {
-        "name": "",
-        "href": ""
-      },
-      {
-        "name": "dynamodb",
-        "href": "https: //us-west-2.console.aws.amazon.com/dynamodbv2/home?region=us-west-2#tables",
-        "label2": " | ",
-        "name2": "lambda",
-        "href2": "https: //us-west-2.console.aws.amazon.com/lambda/home?region=us-west-2#/functions",
-        "label3": " | ",
-        "name3": "kineses",
-        "href3": "https: //us-west-2.console.aws.amazon.com/kinesis/home?region=us-west-2#/dashboard"
-      },
-      {
-        "name": "aws parbrinkdev",
-        "title": "next gen microservice based deployments",
-        "href": "https: //parbrinkdev.signin.aws.amazon.com/console"
-      },
-      {
-        "name": "aws brinkdevelopment",
-        "title": "legacy, the monolith in all its glory",
-        "href": "https://brinkdevelopment.signin.aws.amazon.com/console"
-      }
-    ]
-  },
-  {
-    "section": "punchh loyalty",
-    "href": "https: //dashboard.punchh.com/",
-    "title": "Keep em comming back",
-    "links": [
-      {
-        "name": "roadmap",
-        "href": "https: //docs.google.com/presentation/d/11H-SJ1JtlLlU9iNwfL7LEwjH6HUW2b6H1hNJc-pX5MY/edit#slide=id.g114e82a1538_0_0",
-        "label2": " | ",
-        "name2": "wiki",
-        "href2": "https: //punchhdev.atlassian.net/wiki/spaces/",
-        "label3": " | ",
-        "name3": "jira",
-        "href3": "https: //punchhdev.atlassian.net/jira/",
-        "label4": " | ",
-        "name4": "arch",
-        "href4": "https: //punchhdev.atlassian.net/wiki/spaces/ENGINEERIN/pages/14745601/Punchh+Architecture"
-      },
-      {
-        "name": "punchh developer portal",
-        "href": "https: //developers.punchh.com/"
-      },
-      { "name": "", "href": "" },
-      { "name": "", "href": "" },
-      {
-        "label": "-",
-        "name": "octa app board",
-        "href": "https: //punchh.okta.com/app/UserHome"
-      }
-    ]
-  },
-  {
-    "section": "payment services",
-    "href": "https: //www.partech.com/products/payment-services/",
-    "title": "get paid, stay in business",
-    "links": [
-      {
-        "name": "roadmap",
-        "href": "https: //docs.google.com/presentation/d/11H-SJ1JtlLlU9iNwfL7LEwjH6HUW2b6H1hNJc-pX5MY/edit#slide=id.g113d9f7ea26_0_0",
-        "label2": " | ",
-        "name2": "wiki",
-        "href2": "",
-        "label3": " | ",
-        "name3": "jira",
-        "href3": "",
-        "label4": " | ",
-        "name4": "arch",
-        "href4": ""
-      },
-      {
-        "name": "parpay",
-        "href": "https: //www.partech.com/products/par-pay/"
-      },
-      { "name": "", "href": "" },
-      { "name": "", "href": "" },
-      { "name": "", "href": "" },
-      { "name": "", "href": "" }
-    ]
-  },
-  {
-    "section": "data central",
-    "href": "https: //dc01.rmdatacentral.com/portal1242/login",
-    "links": [
-      {
-        "name": "roadmap",
-        "href": "href:https: //docs.google.com/presentation/d/11H-SJ1JtlLlU9iNwfL7LEwjH6HUW2b6H1hNJc-pX5MY/edit#slide=id.g10e309e7f11_0_185",
-        "label2": " | ",
-        "name2": "wiki",
-        "href2": "https: //teams.microsoft.com/l/channel/19%3A102963c0adc34178a70a2bb9a9b99837%40thread.tacv2/tab%3A%3A77c80d1d-f9d3-49f9-ade9-ef1d85970a66?groupId=b74c42d4-eee4-4cf1-9152-578fb75f62c6&tenantId=222d8e1f-9379-49f1-8f4e-ca26d1c24602",
-        "label3": " | ",
-        "name3": "jira",
-        "href3": "https: //accsysinc.visualstudio.com/RMDC/_boards/directory",
-        "label4": " | ",
-        "name4": "arch",
-        "href4": "https: //partech.sharepoint.com/:i:/r/sites/KyivTeam2/Shared%20Documents/General/DC%20Architecture%20diagrams/DC.PNG?csf=1&web=1&e=LDxCLd"
-      },
-      { "name": "", "href": "" },
-      { "name": "", "href": "" },
-      { "name": "", "href": "" },
-      { "name": "", "href": "" },
-      { "name": "", "href": "" }
-    ]
-  },
-  {
-    "section": "p&t onboarding guide",
-    "href": "https: //docs.google.com/document/d/1FAbJdUbRdljNZ51L6A39xRR9dy3cH0SjZsgxcFrOeqM/edit?usp=sharing",
-    "title": "PAR Product & Technology Onboarding Guide",
-    "links": [
-      {
-        "label": "zoom ",
-        "name": "curated list",
-        "href": "https: //docs.google.com/document/d/1IFtYWu2ij-0NL0kvmzYHmCq_t5J0PxZ0DKUwjCkDyNY"
-      },
-      {
-        "name": "brink dev",
-        "href": "https: //partechnology.atlassian.net/wiki/label/BDEV/onboarding",
-        "label2": " | ",
-        "name2": "teams",
-        "href2": "https: //partech-my.sharepoint.com/personal/marc_greenberg_partech_com/Documents/Documents/Par/org/TeamBrink.pdf "
-      },
-      {
-        "name": "new hire deck (old)",
-        "href": "https: //partech.sharepoint.com/:p:/r/sites/PARHub-HR/US%20Employee%20Document%20Library/New%20Hire%20On-Boarding%20Hub/New%20Hire%20Guides/New%20Hire%20Onboarding%20Slides.pptx?d=w9e0bc397ee604e9b8c0b68aa070a3973&csf=1&web=1&e=00bAwa"
-      },
-      { "name": "", "href": "" },
-      { "name": "", "href": "" },
-      { "name": "", "href": "" }
-    ]
-  },
-  {
-    "section": "tactics / strategies",
-    "href": "#",
-    "links": [
-      {
-        "name": "2022 internal roadmap",
-        "href": "https: //partech-my.sharepoint.com/:p:/p/marc_greenberg/EcXhhSPRNy9FgXZCiwwonbUBsb8n0mjnWJOFG5Avo8vM9Q?e=wjsgCs"
-      },
-      {
-        "name": "2022 customer roadmap",
-        "href": "https: //partech-my.sharepoint.com/:p:/p/marc_greenberg/EYmXFV5VQYVJuXMyL1K-81gBwaif7EFCH-NwJSL47VzMsA?e=ousg9zhttps://partech-my.sharepoint.com/:p:/p/marc_greenberg/EYmXFV5VQYVJuXMyL1K-81gBwaif7EFCH-NwJSL47VzMsA?e=ousg9z"
-      },
-      {
-        "label": "-",
-        "name": "unifiedcommercecloudplatform",
-        "title": "unified commerce cloud platform",
-        "href": "https: //www.partech.com/wp-content/uploads/2021/10/Investor-Relations-Deck-051221-vFF.pdf"
-      },
-      { "name": "", "href": "" },
-      { "name": "", "href": "" }
-    ]
-  },
-  {
-    "section": "developer",
-    "href": "#",
-    "links": [
-      {
-        "name": "microsoft",
-        "href": "https: //docs.microsoft.com/en-us/",
-        "label2": "ㅤ|ㅤ",
-        "name2": "visualstudio",
-        "href2": "https: //my.visualstudio.com/?auth_redirect=true"
-      },
-      { "label": "-" },
-      {
-        "name": "console",
-        "href": "http: //console.aws.amazon.com/",
-        "label2": "ㅤ|ㅤ",
-        "name2": "aws",
-        "href2": "https: //aws.amazon.com/developer/",
-        "label3": "ㅤ|ㅤ",
-        "name3": "dev",
-        "href3": "https: //developer.amazon.com/"
-      },
-      {
-        "name": "alexa",
-        "href": "https: //alexa.amazon.com/",
-        "label2": "✫",
-        "name2": "prime",
-        "href2": "https://amazon.com/",
-        "label3": "✫",
-        "name3": "video",
-        "href3": "https: //www.amazon.com/Amazon-Video/b/?ie=UTF8&node=2858778011&ref_=nav_dvm_us_eg_cs_nav_rec_T1",
-        "label4": "✫",
-        "name4": "music",
-        "href4": "https://music.amazon.com/"
-      },
-      { "label": "-" },
-      { "name": "", "href": "" }
-    ]
-  },
-  {
-    "section": "status / monitors",
-    "href": "https: //unicode-table.com/en/",
-    "links": [
-      {
-        "label": "apmㅤㅤ",
-        "name": "datadog",
-        "href": "https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapp.datadoghq.com%2Faccount%2Flogin%2Fid%2F9cb01a415&data=04%7C01%7Cmarc_greenberg%40partech.com%7C81db86674abe4e6babd608da163bf827%7C222d8e1f937949f18f4eca26d1c24602%7C1%7C0%7C637846744068861567%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=YtgOkIdQpXK36XWUb10ple%2FmIWuy5NVenfyWLuexZn4%3D&reserved=0",
-        "label2": " | ",
-        "name2": "new relic",
-        "href2": "https: //rpm.newrelic.com/accounts/2097645/sso/saml/login"
-      },
-      {
-        "label": "statusㅤ",
-        "name": "par",
-        "href": "https: //parit.statuspage.io/",
-        "label2": " | ",
-        "name2": "punchh",
-        "href2": "https://status.punchh.com/"
-      },
-      {
-        "name": "",
-        "href": ""
-      },
-      {
-        "name": "",
-        "href": ""
-      },
-      {
-        "label": "-"
-      },
-      {
-        "name": "deployment dashboard",
-        "href": "https://app.smartsheet.com/b/publish?EQBCT=8f4cc5aca9fa4e2ebe6bc3af2bae800f"
-      }
-    ]
-  }
-]
+{
+  "version": "0.0.6",
+  "config": [
+    {
+      "section": "communicate",
+      "href": "https: //web.microsoftstream.com/browse?view=channel",
+      "title": "Company Meetings",
+      "links": [
+        {
+          "name": "zoom",
+          "href": "https: //partech.zoom.us/meeting#/upcoming",
+          "label2": "ㅤ|ㅤ",
+          "name2": "slack",
+          "href2": "https: //partech.slack.com/messages/general/",
+          "label3": "ㅤ|ㅤ",
+          "name3": "teams",
+          "href3": "https: //go.microsoft.com/fwlink/p/?LinkID=873020&clcid=0x409&culture=en-us&country=US&lm=deeplink&lmsrc=homePageWeb&cmpid=WebSignIn"
+        },
+        {
+          "name": "office",
+          "href": "https: //www.office.com",
+          "label2": "ㅤ|ㅤ",
+          "name2": "mail ",
+          "href2": "https: //outlook.office.com/mail/",
+          "label3": "ㅤ|ㅤ",
+          "name3": " delve",
+          "href3": "https: //nam.delve.office.com/"
+        },
+        {
+          "label": "-",
+          "href": ""
+        },
+        {
+          "name": "ㅤOneDrive - My Sharepointㅤ",
+          "href": "https: //partech-my.sharepoint.com/"
+        },
+        {
+          "label": "-",
+          "name": "PAR hub",
+          "href": "https: //partech.sharepoint.com/",
+          "label2": " • ",
+          "name2": "IT",
+          "href2": "https: //partech.sharepoint.com/sites/PARHub-IT",
+          "label3": " • ",
+          "name3": "Service Desk",
+          "href3": "https: //itservicedesk.partech.com/support/home"
+        }
+      ]
+    },
+    {
+      "section": "source / tools",
+      "href": "https: //www.compart.com/en/unicode/html",
+      "links": [
+        {
+          "name": "book",
+          "href": "https: //book.git-scm.com/book/en/v2",
+          "label2": " | ",
+          "name2": "cheats",
+          "href2": "https: //gist.github.com/codemarc/7e3c37a880e679f8fa310f67cdb29a85",
+          "label3": " | ",
+          "name3": "gists",
+          "href3": "https: //gist.github.com",
+          "label4": " | ",
+          "name4": "insider",
+          "href4": "https: //resources.github.com/github-insider/practitioner/"
+        },
+        {
+          "name": "github:me",
+          "href": "https: //github.com",
+          "label2": " | ",
+          "name2": "as par",
+          "href2": "https: //github.com/par-brink",
+          "label3": " | ",
+          "name3": "as punchh",
+          "href3": "https: //github.com/punchh/"
+        },
+        {
+          "label": "-"
+        },
+        {
+          "name": "bitbucket",
+          "href": "https: //devops.partech.com/bitbucket/projects",
+          "label2": " | ",
+          "name2": "jenkins",
+          "href2": "https: //build.partech.com/teams-brink/"
+        },
+        {
+          "label": "-"
+        },
+        {
+          "name": "azure devOps",
+          "href": "https: //partechnology.visualstudio.com/"
+        }
+      ]
+    },
+    {
+      "section": "learning",
+      "href": "https: //github.com/codemarc/ntmfs",
+      "links": [
+        {
+          "name": "linkedin learning",
+          "href": "https: //www.linkedin.com/learning"
+        },
+        {
+          "name": "pluralsight trial",
+          "href": "https: //app.pluralsight.com/library/"
+        },
+        { "name": "", "href": "" },
+        { "name": "", "href": "" },
+        { "label": "-" },
+        {
+          "name": "a cloud guru",
+          "href": "https: //learn.acloud.guru/dashboard"
+        }
+      ]
+    },
+    {
+      "section": "employee hub",
+      "href": "https: //partech.sharepoint.com/sites/PARHub-HR",
+      "links": [
+        {
+          "label": "paydatesㅤㅤ",
+          "name": "us",
+          "href": "https://partech.sharepoint.com/:b:/r/sites/PARHub-HR/SiteAssets/SitePages/PARHub-HR/2022-PAR-US-Payroll-Calendar.pdf?csf=1&web=1&e=e9XScz",
+          "label2": "ㅤ|ㅤ",
+          "name2": "can",
+          "href2": "https://partech.sharepoint.com/:b:/r/sites/PARHub-HR/SiteAssets/SitePages/PARHub-HR/2022-PAR---Punchh-Canada-Payroll-Calendar.pdf?csf=1&web=1&e=G6UDVX"
+        },
+        {
+          "name": "adp",
+          "href": "https://workforcenow.adp.com/theme/index.html",
+          "label2": " | ",
+          "name2": "cigna",
+          "href2": "https://my.cigna.com/",
+          "label3": " | ",
+          "name3": "concur",
+          "href3": "https: //www.concursolutions.com/",
+          "label4": " | ",
+          "name4": "recruit",
+          "href4": "https://punchh.greenhouse.io/dashboard"
+        },
+        {
+          "name": "lattice people mgmt platform",
+          "href": "https://punchh.latticehq.com/",
+          "title": "Lattice is a people management platform that empowers leaders to build engaged, high-performing teams that inspire winning cultures."
+        },
+        { "name": "", "href": "" },
+        { "label": "-" },
+        {
+          "name": "active directory",
+          "href": "https: //portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Overview",
+          "label2": "ㅤㅤㅤㅤ",
+          "name2": "azure",
+          "href2": "https: //portal.azure.com/#@partech.com/"
+        }
+      ]
+    },
+    {
+      "section": "brink pos",
+      "href": "https: //admin-apiint.brinkpos.net/",
+      "title": "make the experience flawless",
+      "links": [
+        {
+          "name": "roadmap",
+          "href": "https: //docs.google.com/presentation/d/11H-SJ1JtlLlU9iNwfL7LEwjH6HUW2b6H1hNJc-pX5MY/edit#slide=id.g114d3bef194_0_0",
+          "label2": " | ",
+          "name2": "wiki",
+          "href2": "https: //partechnology.atlassian.net/wiki/spaces/BDEV/overview",
+          "label3": " | ",
+          "name3": "jira",
+          "href3": "https: //partechnology.atlassian.net/jira/projects",
+          "label4": " | ",
+          "name4": "arch",
+          "href4": "https: //partechnology.atlassian.net/wiki/spaces/SASS/pages/3629973731/Future+State+Architecture+and+DevOps"
+        },
+        {
+          "name": "documentation portal",
+          "href": "http: //cdn.brinkpos.net/Documentation.html"
+        },
+        {
+          "name": "",
+          "href": ""
+        },
+        {
+          "name": "dynamodb",
+          "href": "https: //us-west-2.console.aws.amazon.com/dynamodbv2/home?region=us-west-2#tables",
+          "label2": " | ",
+          "name2": "lambda",
+          "href2": "https: //us-west-2.console.aws.amazon.com/lambda/home?region=us-west-2#/functions",
+          "label3": " | ",
+          "name3": "kineses",
+          "href3": "https: //us-west-2.console.aws.amazon.com/kinesis/home?region=us-west-2#/dashboard"
+        },
+        {
+          "name": "aws parbrinkdev",
+          "title": "next gen microservice based deployments",
+          "href": "https: //parbrinkdev.signin.aws.amazon.com/console"
+        },
+        {
+          "name": "aws brinkdevelopment",
+          "title": "legacy, the monolith in all its glory",
+          "href": "https://brinkdevelopment.signin.aws.amazon.com/console"
+        }
+      ]
+    },
+    {
+      "section": "punchh loyalty",
+      "href": "https: //dashboard.punchh.com/",
+      "title": "Keep em comming back",
+      "links": [
+        {
+          "name": "roadmap",
+          "href": "https: //docs.google.com/presentation/d/11H-SJ1JtlLlU9iNwfL7LEwjH6HUW2b6H1hNJc-pX5MY/edit#slide=id.g114e82a1538_0_0",
+          "label2": " | ",
+          "name2": "wiki",
+          "href2": "https: //punchhdev.atlassian.net/wiki/spaces/",
+          "label3": " | ",
+          "name3": "jira",
+          "href3": "https: //punchhdev.atlassian.net/jira/",
+          "label4": " | ",
+          "name4": "arch",
+          "href4": "https: //punchhdev.atlassian.net/wiki/spaces/ENGINEERIN/pages/14745601/Punchh+Architecture"
+        },
+        {
+          "name": "punchh developer portal",
+          "href": "https: //developers.punchh.com/"
+        },
+        { "name": "", "href": "" },
+        { "name": "", "href": "" },
+        {
+          "label": "-",
+          "name": "octa app board",
+          "href": "https: //punchh.okta.com/app/UserHome"
+        }
+      ]
+    },
+    {
+      "section": "payment services",
+      "href": "https: //www.partech.com/products/payment-services/",
+      "title": "get paid, stay in business",
+      "links": [
+        {
+          "name": "roadmap",
+          "href": "https: //docs.google.com/presentation/d/11H-SJ1JtlLlU9iNwfL7LEwjH6HUW2b6H1hNJc-pX5MY/edit#slide=id.g113d9f7ea26_0_0",
+          "label2": " | ",
+          "name2": "wiki",
+          "href2": "",
+          "label3": " | ",
+          "name3": "jira",
+          "href3": "",
+          "label4": " | ",
+          "name4": "arch",
+          "href4": ""
+        },
+        {
+          "name": "parpay",
+          "href": "https: //www.partech.com/products/par-pay/"
+        },
+        { "name": "", "href": "" },
+        { "name": "", "href": "" },
+        { "name": "", "href": "" },
+        { "name": "", "href": "" }
+      ]
+    },
+    {
+      "section": "data central",
+      "href": "https: //dc01.rmdatacentral.com/portal1242/login",
+      "links": [
+        {
+          "name": "roadmap",
+          "href": "href:https: //docs.google.com/presentation/d/11H-SJ1JtlLlU9iNwfL7LEwjH6HUW2b6H1hNJc-pX5MY/edit#slide=id.g10e309e7f11_0_185",
+          "label2": " | ",
+          "name2": "wiki",
+          "href2": "https: //teams.microsoft.com/l/channel/19%3A102963c0adc34178a70a2bb9a9b99837%40thread.tacv2/tab%3A%3A77c80d1d-f9d3-49f9-ade9-ef1d85970a66?groupId=b74c42d4-eee4-4cf1-9152-578fb75f62c6&tenantId=222d8e1f-9379-49f1-8f4e-ca26d1c24602",
+          "label3": " | ",
+          "name3": "jira",
+          "href3": "https: //accsysinc.visualstudio.com/RMDC/_boards/directory",
+          "label4": " | ",
+          "name4": "arch",
+          "href4": "https: //partech.sharepoint.com/:i:/r/sites/KyivTeam2/Shared%20Documents/General/DC%20Architecture%20diagrams/DC.PNG?csf=1&web=1&e=LDxCLd"
+        },
+        { "name": "", "href": "" },
+        { "name": "", "href": "" },
+        { "name": "", "href": "" },
+        { "name": "", "href": "" },
+        { "name": "", "href": "" }
+      ]
+    },
+    {
+      "section": "p&t onboarding guide",
+      "href": "https: //docs.google.com/document/d/1FAbJdUbRdljNZ51L6A39xRR9dy3cH0SjZsgxcFrOeqM/edit?usp=sharing",
+      "title": "PAR Product & Technology Onboarding Guide",
+      "links": [
+        {
+          "label": "zoom ",
+          "name": "curated list",
+          "href": "https: //docs.google.com/document/d/1IFtYWu2ij-0NL0kvmzYHmCq_t5J0PxZ0DKUwjCkDyNY"
+        },
+        {
+          "name": "brink dev",
+          "href": "https: //partechnology.atlassian.net/wiki/label/BDEV/onboarding",
+          "label2": " | ",
+          "name2": "teams",
+          "href2": "https: //partech-my.sharepoint.com/personal/marc_greenberg_partech_com/Documents/Documents/Par/org/TeamBrink.pdf "
+        },
+        {
+          "name": "new hire deck (old)",
+          "href": "https: //partech.sharepoint.com/:p:/r/sites/PARHub-HR/US%20Employee%20Document%20Library/New%20Hire%20On-Boarding%20Hub/New%20Hire%20Guides/New%20Hire%20Onboarding%20Slides.pptx?d=w9e0bc397ee604e9b8c0b68aa070a3973&csf=1&web=1&e=00bAwa"
+        },
+        { "name": "", "href": "" },
+        { "name": "", "href": "" },
+        { "name": "", "href": "" }
+      ]
+    },
+    {
+      "section": "tactics / strategies",
+      "href": "#",
+      "links": [
+        {
+          "name": "2022 internal roadmap",
+          "href": "https: //partech-my.sharepoint.com/:p:/p/marc_greenberg/EcXhhSPRNy9FgXZCiwwonbUBsb8n0mjnWJOFG5Avo8vM9Q?e=wjsgCs"
+        },
+        {
+          "name": "2022 customer roadmap",
+          "href": "https: //partech-my.sharepoint.com/:p:/p/marc_greenberg/EYmXFV5VQYVJuXMyL1K-81gBwaif7EFCH-NwJSL47VzMsA?e=ousg9zhttps://partech-my.sharepoint.com/:p:/p/marc_greenberg/EYmXFV5VQYVJuXMyL1K-81gBwaif7EFCH-NwJSL47VzMsA?e=ousg9z"
+        },
+        {
+          "label": "-",
+          "name": "unifiedcommercecloudplatform",
+          "title": "unified commerce cloud platform",
+          "href": "https: //www.partech.com/wp-content/uploads/2021/10/Investor-Relations-Deck-051221-vFF.pdf"
+        },
+        { "name": "", "href": "" },
+        { "name": "", "href": "" }
+      ]
+    },
+    {
+      "section": "developer",
+      "href": "#",
+      "links": [
+        {
+          "name": "microsoft",
+          "href": "https: //docs.microsoft.com/en-us/",
+          "label2": "ㅤ|ㅤ",
+          "name2": "visualstudio",
+          "href2": "https: //my.visualstudio.com/?auth_redirect=true"
+        },
+        { "label": "-" },
+        {
+          "name": "console",
+          "href": "http: //console.aws.amazon.com/",
+          "label2": "ㅤ|ㅤ",
+          "name2": "aws",
+          "href2": "https: //aws.amazon.com/developer/",
+          "label3": "ㅤ|ㅤ",
+          "name3": "dev",
+          "href3": "https: //developer.amazon.com/"
+        },
+        {
+          "name": "alexa",
+          "href": "https: //alexa.amazon.com/",
+          "label2": "✫",
+          "name2": "prime",
+          "href2": "https://amazon.com/",
+          "label3": "✫",
+          "name3": "video",
+          "href3": "https: //www.amazon.com/Amazon-Video/b/?ie=UTF8&node=2858778011&ref_=nav_dvm_us_eg_cs_nav_rec_T1",
+          "label4": "✫",
+          "name4": "music",
+          "href4": "https://music.amazon.com/"
+        },
+        { "label": "-" },
+        { "name": "", "href": "" }
+      ]
+    },
+    {
+      "section": "status / monitors",
+      "href": "https: //unicode-table.com/en/",
+      "links": [
+        {
+          "label": "apmㅤㅤ",
+          "name": "datadog",
+          "href": "https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapp.datadoghq.com%2Faccount%2Flogin%2Fid%2F9cb01a415&data=04%7C01%7Cmarc_greenberg%40partech.com%7C81db86674abe4e6babd608da163bf827%7C222d8e1f937949f18f4eca26d1c24602%7C1%7C0%7C637846744068861567%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=YtgOkIdQpXK36XWUb10ple%2FmIWuy5NVenfyWLuexZn4%3D&reserved=0",
+          "label2": " | ",
+          "name2": "new relic",
+          "href2": "https: //rpm.newrelic.com/accounts/2097645/sso/saml/login"
+        },
+        {
+          "label": "statusㅤ",
+          "name": "par",
+          "href": "https: //parit.statuspage.io/",
+          "label2": " | ",
+          "name2": "punchh",
+          "href2": "https://status.punchh.com/"
+        },
+        {
+          "name": "",
+          "href": ""
+        },
+        {
+          "name": "",
+          "href": ""
+        },
+        {
+          "label": "-"
+        },
+        {
+          "name": "deployment dashboard",
+          "href": "https://app.smartsheet.com/b/publish?EQBCT=8f4cc5aca9fa4e2ebe6bc3af2bae800f"
+        }
+      ]
+    }
+  ]
+}
