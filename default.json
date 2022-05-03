@@ -105,8 +105,14 @@
           "name": "pluralsight trial",
           "href": "https://app.pluralsight.com/library/"
         },
-        { "name": "", "href": "" },
-        { "name": "", "href": "" },
+        {
+          "name": "api concepts",
+          "href": "https://zapier.com/learn/apis/"
+        },
+        {
+          "name": "",
+          "href": ""
+        },
         { "label": "-" },
         {
           "name": "a cloud guru",
@@ -379,12 +385,17 @@
       "href": "https://app.smartsheet.com/b/publish?EQBCT=8f4cc5aca9fa4e2ebe6bc3af2bae800f",
       "links": [
         {
-          "label": "apmㅤㅤ",
           "name": "datadog",
           "href": "https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapp.datadoghq.com%2Faccount%2Flogin%2Fid%2F9cb01a415&data=04%7C01%7Cmarc_greenberg%40partech.com%7C81db86674abe4e6babd608da163bf827%7C222d8e1f937949f18f4eca26d1c24602%7C1%7C0%7C637846744068861567%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=YtgOkIdQpXK36XWUb10ple%2FmIWuy5NVenfyWLuexZn4%3D&reserved=0",
           "label2": " | ",
           "name2": "new relic",
-          "href2": "https://rpm.newrelic.com/accounts/2097645/sso/saml/login"
+          "href2": "https://rpm.newrelic.com/accounts/2097645/sso/saml/login",
+          "label3": " | ",
+          "name3": "opsgenie",
+          "href3": ""
+        },
+        {
+          "label": "-"
         },
         {
           "label": "statusㅤ",
