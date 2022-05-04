@@ -20,6 +20,10 @@ const getData = async () => {
 describe('Test local data ', function () {
   test("checking default.json", () => {
     const data=require('./default.json')
+    expect(data).toEqual(expect.objectContaining({version: VERSION}))
+    expect(data.hasOwnProperty('config')).toBe(true)
+    expect(data.config.length).toBeGreaterThan(0)
+    expect(data.config.length).toBeLessThan(21)
   })
 })
 

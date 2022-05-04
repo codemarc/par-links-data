@@ -98,17 +98,17 @@
       "href": "https://github.com/codemarc/ntmfs",
       "links": [
         {
-          "name": "linkedin learning",
-          "href": "https://www.linkedin.com/learning"
+          "name": "linkedin",
+          "href": "https://www.linkedin.com/learning",
+          "label2": "ㅤ|ㅤ",
+          "name2": "pluralsight",
+          "href2": "https://app.pluralsight.com/library/"
         },
         {
-          "name": "pluralsight trial",
-          "href": "https://app.pluralsight.com/library/"
-        },
-        {
-          "name": "api concepts",
+          "name": "zapier api concepts",
           "href": "https://zapier.com/learn/apis/"
         },
+        { "label": "-" },
         {
           "name": "",
           "href": ""
@@ -145,13 +145,12 @@
           "name4": "recruit",
           "href4": "https://punchh.greenhouse.io/dashboard"
         },
+        {"label": "-" },
         {
           "name": "lattice people mgmt platform",
           "href": "https://punchh.latticehq.com/",
           "title": "Lattice is a people management platform that empowers leaders to build engaged, high-performing teams that inspire winning cultures."
         },
-
-        { "name": "", "href": "" },
         { "label": "-" },
         {
           "name": "active directory",
@@ -184,6 +183,14 @@
           "name": "documentation portal",
           "href": "http://cdn.brinkpos.net/Documentation.html"
         },
+        { 
+          "label": "env:ㅤ",
+          "name": "search", 
+          "href": "https://partechnology.atlassian.net/wiki/search?text=environment" ,
+          "label2": "ㅤ|ㅤ",
+          "name2": "tagged", 
+          "href2": "https://partechnology.atlassian.net/wiki/label/BRD/environments" 
+        },
         {
           "name": "",
           "href": ""
@@ -199,21 +206,20 @@
           "href3": "https://us-west-2.console.aws.amazon.com/kinesis/home?region=us-west-2#/dashboard"
         },
         {
-          "name": "aws parbrinkdev",
-          "title": "next gen microservice based deployments",
-          "href": "https://parbrinkdev.signin.aws.amazon.com/console"
-        },
-        {
-          "name": "aws brinkdevelopment",
+          "name": "legacy",
           "title": "legacy, the monolith in all its glory",
-          "href": "https://brinkdevelopment.signin.aws.amazon.com/console"
+          "href": "https://brinkdevelopment.signin.aws.amazon.com/console",
+          "label2": " | ",
+          "name2": "next",
+          "title2": "next gen microservice based deployments",
+          "href": "https://parbrinkdev.signin.aws.amazon.com/console"
         }
       ]
     },
     {
       "section": "punchh loyalty",
       "href": "https://dashboard.punchh.com/",
-      "title": "Keep em comming back",
+      "title": "Keep em coming back",
       "links": [
         {
           "name": "roadmap",
@@ -232,7 +238,14 @@
           "name": "punchh developer portal",
           "href": "https://developers.punchh.com/"
         },
-        { "name": "", "href": "" },
+        { 
+          "label": "env:ㅤ",
+          "name": "search", 
+          "href": "https://punchhdev.atlassian.net/wiki/search?text=environment" ,
+          "label2": "ㅤ|ㅤ",
+          "name2": "tagged", 
+          "href2": "https://punchhdev.atlassian.net/wiki/label/BRD/environments" 
+        },
         { "name": "", "href": "" },
         {
           "label": "-",
@@ -265,7 +278,7 @@
         },
         { "name": "", "href": "" },
         { "name": "", "href": "" },
-        { "name": "", "href": "" },
+        {"label": "-" },
         { "name": "", "href": "" }
       ]
     },
@@ -289,7 +302,7 @@
         { "name": "", "href": "" },
         { "name": "", "href": "" },
         { "name": "", "href": "" },
-        { "name": "", "href": "" },
+        {"label": "-" },
         { "name": "", "href": "" }
       ]
     },
@@ -315,7 +328,7 @@
           "href": "https://partech.sharepoint.com/:p:/r/sites/PARHub-HR/US%20Employee%20Document%20Library/New%20Hire%20On-Boarding%20Hub/New%20Hire%20Guides/New%20Hire%20Onboarding%20Slides.pptx?d=w9e0bc397ee604e9b8c0b68aa070a3973&csf=1&web=1&e=00bAwa"
         },
         { "name": "", "href": "" },
-        { "name": "", "href": "" },
+        { "label": "-" },
         { "name": "", "href": "" }
       ]
     },
@@ -337,7 +350,7 @@
           "title": "unified commerce cloud platform",
           "href": "https://www.partech.com/wp-content/uploads/2021/10/Investor-Relations-Deck-051221-vFF.pdf"
         },
-        { "name": "", "href": "" },
+        {"label": "-" },
         { "name": "", "href": "" }
       ]
     },
@@ -392,7 +405,7 @@
           "href2": "https://rpm.newrelic.com/accounts/2097645/sso/saml/login",
           "label3": " | ",
           "name3": "opsgenie",
-          "href3": ""
+          "href3": "https://partechnology.atlassian-app.opsgenie.com"
         },
         {
           "label": "-"
@@ -409,10 +422,7 @@
           "name": "",
           "href": ""
         },
-        {
-          "name": "",
-          "href": ""
-        },
+        {"label": "-" },
         {
           "name": "",
           "href": ""
