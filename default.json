@@ -1,5 +1,5 @@
 {
-  "version": "0.0.6",
+  "version": "0.0.7",
   "config": [
     {
       "section": "communicate",
@@ -108,15 +108,18 @@
           "name": "zapier api concepts",
           "href": "https://zapier.com/learn/apis/"
         },
-        { "label": "-" },
-        {
-          "name": "",
-          "href": ""
-        },
-        { "label": "-" },
         {
           "name": "a cloud guru",
           "href": "https://learn.acloud.guru/dashboard"
+        },
+        { "label": "-" },
+        {
+          "name": "PAR Academy",
+          "href": "https://academy.partech.com/"
+        },
+        {
+          "name": "Punchh University",
+          "href": "https://punchhinternal.learnupon.com/dashboard"
         }
       ]
     },
@@ -145,7 +148,7 @@
           "name4": "recruit",
           "href4": "https://punchh.greenhouse.io/dashboard"
         },
-        {"label": "-" },
+        { "label": "-" },
         {
           "name": "lattice people mgmt platform",
           "href": "https://punchh.latticehq.com/",
@@ -165,6 +168,9 @@
       "section": "brink pos",
       "href": "https://admin-apiint.brinkpos.net/",
       "title": "make the experience flawless",
+      "label2": "ㅤㅤㅤㅤㅤㅤ",
+      "section2": "about",
+      "href2": "https://www.youtube.com/watch?v=m5IfgQaA75g",
       "links": [
         {
           "name": "roadmap",
@@ -173,24 +179,27 @@
           "name2": "wiki",
           "href2": "https://partechnology.atlassian.net/wiki/spaces/BDEV/overview",
           "label3": " | ",
-          "name3": "jira",
+          "name3": "issues",
           "href3": "https://partechnology.atlassian.net/jira/projects",
           "label4": " | ",
           "name4": "arch",
           "href4": "https://partechnology.atlassian.net/wiki/spaces/SASS/pages/3629973731/Future+State+Architecture+and+DevOps"
         },
         {
-          "name": "documentation portal",
-          "href": "http://cdn.brinkpos.net/Documentation.html"
+          "name": "docs/dev",
+          "href": "http://cdn.brinkpos.net/Documentation.html",
+          "label2": " ☆ ",
+          "name2": "search",
+          "href2": "https://partechnology.atlassian.net/wiki/search?text=environment",
+          "label3": " | ",
+          "name3": "tagged",
+          "href3": "https://partechnology.atlassian.net/wiki/label/BRD/environments"
         },
-        { 
-          "label": "env:ㅤ",
-          "name": "search", 
-          "href": "https://partechnology.atlassian.net/wiki/search?text=environment" ,
-          "label2": "ㅤ|ㅤ",
-          "name2": "tagged", 
-          "href2": "https://partechnology.atlassian.net/wiki/label/BRD/environments" 
+        {
+          "name": "",
+          "href": ""
         },
+
         {
           "name": "",
           "href": ""
@@ -220,6 +229,9 @@
       "section": "punchh loyalty",
       "href": "https://dashboard.punchh.com/",
       "title": "Keep em coming back",
+      "label2": "ㅤㅤㅤ",
+      "section2": "about",
+      "href2": "https://vimeo.com/568497788/c839f7481e?embedded=true&source=video_title&owner=114328203",
       "links": [
         {
           "name": "roadmap",
@@ -228,81 +240,81 @@
           "name2": "wiki",
           "href2": "https://punchhdev.atlassian.net/wiki/spaces/",
           "label3": " | ",
-          "name3": "jira",
+          "name3": "issues",
           "href3": "https://punchhdev.atlassian.net/jira/",
           "label4": " | ",
           "name4": "arch",
           "href4": "https://punchhdev.atlassian.net/wiki/spaces/ENGINEERIN/pages/14745601/Punchh+Architecture"
         },
         {
-          "name": "punchh developer portal",
-          "href": "https://developers.punchh.com/"
+          "name": "docs/dev",
+          "href": "https://developers.punchh.com/",
+          "label2": " ☆ ",
+          "name2": "search",
+          "href2": "https://punchhdev.atlassian.net/wiki/search?text=environment",
+          "label3": " | ",
+          "name3": "tagged",
+          "href3": "https://punchhdev.atlassian.net/wiki/label/BRD/environments"
         },
-        { 
-          "label": "env:ㅤ",
-          "name": "search", 
-          "href": "https://punchhdev.atlassian.net/wiki/search?text=environment" ,
-          "label2": "ㅤ|ㅤ",
-          "name2": "tagged", 
-          "href2": "https://punchhdev.atlassian.net/wiki/label/BRD/environments" 
-        },
+
         { "name": "", "href": "" },
+        { "label": "-" },
         {
-          "label": "-",
+          "name": "openvpn access server",
+          "href": "https://vpn.punchh.com/?src=connect"
+        },
+        {
           "name": "octa app board",
           "href": "https://punchh.okta.com/app/UserHome"
         }
       ]
     },
     {
-      "section": "payment services",
-      "href": "https://www.partech.com/products/payment-services/",
-      "title": "get paid, stay in business",
-      "links": [
-        {
-          "name": "roadmap",
-          "href": "https://docs.google.com/presentation/d/11H-SJ1JtlLlU9iNwfL7LEwjH6HUW2b6H1hNJc-pX5MY/edit#slide=id.g113d9f7ea26_0_0",
-          "label2": " | ",
-          "name2": "wiki",
-          "href2": "",
-          "label3": " | ",
-          "name3": "jira",
-          "href3": "",
-          "label4": " | ",
-          "name4": "arch",
-          "href4": ""
-        },
-        {
-          "name": "parpay",
-          "href": "https://www.partech.com/products/par-pay/"
-        },
-        { "name": "", "href": "" },
-        { "name": "", "href": "" },
-        {"label": "-" },
-        { "name": "", "href": "" }
-      ]
-    },
-    {
       "section": "data central",
       "href": "https://dc01.rmdatacentral.com/portal1242/login",
+      "label2": "ㅤㅤㅤㅤ",
+      "section2": "dev/doc",
+      "href2": "https://dev01.rmdatacentral.com/portal1239/login",
       "links": [
         {
           "name": "roadmap",
           "href": "href:https://docs.google.com/presentation/d/11H-SJ1JtlLlU9iNwfL7LEwjH6HUW2b6H1hNJc-pX5MY/edit#slide=id.g10e309e7f11_0_185",
           "label2": " | ",
           "name2": "wiki",
-          "href2": "https://teams.microsoft.com/l/channel/19%3A102963c0adc34178a70a2bb9a9b99837%40thread.tacv2/tab%3A%3A77c80d1d-f9d3-49f9-ade9-ef1d85970a66?groupId=b74c42d4-eee4-4cf1-9152-578fb75f62c6&tenantId=222d8e1f-9379-49f1-8f4e-ca26d1c24602",
+          "href2":"https://accsysinc.visualstudio.com/RMDC/_wiki/wikis/RMDC.wiki/67/RMDC-Wiki-Home-Page",
           "label3": " | ",
-          "name3": "jira",
+          "name3": "issues",
           "href3": "https://accsysinc.visualstudio.com/RMDC/_boards/directory",
           "label4": " | ",
           "name4": "arch",
           "href4": "https://partech.sharepoint.com/:i:/r/sites/KyivTeam2/Shared%20Documents/General/DC%20Architecture%20diagrams/DC.PNG?csf=1&web=1&e=LDxCLd"
         },
+        {
+          "name": "docs/dev",
+          "href": "https://developers.punchh.com/",
+          "label2": " ☆ ",
+          "name2": "search",
+          "href2": "https://accsysinc.visualstudio.com/RMDC/_search?text=env%2A&type=wiki&lp=dashboard-Project&pageSize=25",
+          "label3": " | ",
+          "name3": "teams",
+          "href3": "https://teams.microsoft.com/l/channel/19%3A102963c0adc34178a70a2bb9a9b99837%40thread.tacv2/tab%3A%3A77c80d1d-f9d3-49f9-ade9-ef1d85970a66?groupId=b74c42d4-eee4-4cf1-9152-578fb75f62c6&tenantId=222d8e1f-9379-49f1-8f4e-ca26d1c24602"
+        },
+        { "name": "", "href": "" },
+        { "label": "-" },
+        { "name": "api swagger doc", "href": "https://dev01.rmdatacentral.com/Portal1234/api/actions/index.html" },
+        { "name": "", "href": "" }
+      ]
+    },
+    {
+      "section": "devops",
+      "href": "",
+      "title": "rip that pipeline",
+      "links": [
         { "name": "", "href": "" },
         { "name": "", "href": "" },
         { "name": "", "href": "" },
-        {"label": "-" },
+        { "name": "", "href": "" },
+        { "label": "-" },
         { "name": "", "href": "" }
       ]
     },
@@ -329,7 +341,13 @@
         },
         { "name": "", "href": "" },
         { "label": "-" },
-        { "name": "", "href": "" }
+        {
+          "name": "payments roadmap",
+          "href": "https://docs.google.com/presentation/d/11H-SJ1JtlLlU9iNwfL7LEwjH6HUW2b6H1hNJc-pX5MY/edit#slide=id.g113d9f7ea26_0_0",
+          "label2": " | ",
+          "name2": "parpay",
+          "href2": "https://www.partech.com/products/par-pay/"
+        }
       ]
     },
     {
@@ -350,7 +368,7 @@
           "title": "unified commerce cloud platform",
           "href": "https://www.partech.com/wp-content/uploads/2021/10/Investor-Relations-Deck-051221-vFF.pdf"
         },
-        {"label": "-" },
+        { "label": "-" },
         { "name": "", "href": "" }
       ]
     },
@@ -422,7 +440,7 @@
           "name": "",
           "href": ""
         },
-        {"label": "-" },
+        { "label": "-" },
         {
           "name": "",
           "href": ""
