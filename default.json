@@ -86,9 +86,9 @@
         {
           "label": "-"
         },
-        { 
-          "name": "", 
-          "href": "" 
+        {
+          "name": "",
+          "href": ""
         }
       ]
     },
@@ -282,7 +282,7 @@
           "href": "href:https://docs.google.com/presentation/d/11H-SJ1JtlLlU9iNwfL7LEwjH6HUW2b6H1hNJc-pX5MY/edit#slide=id.g10e309e7f11_0_185",
           "label2": " | ",
           "name2": "wiki",
-          "href2":"https://accsysinc.visualstudio.com/RMDC/_wiki/wikis/RMDC.wiki/67/RMDC-Wiki-Home-Page",
+          "href2": "https://accsysinc.visualstudio.com/RMDC/_wiki/wikis/RMDC.wiki/67/RMDC-Wiki-Home-Page",
           "label3": " | ",
           "name3": "issues",
           "href3": "https://accsysinc.visualstudio.com/RMDC/_boards/directory",
@@ -302,7 +302,10 @@
         },
         { "name": "", "href": "" },
         { "label": "-" },
-        { "name": "api swagger doc", "href": "https://dev01.rmdatacentral.com/Portal1234/api/actions/index.html" },
+        {
+          "name": "api swagger doc",
+          "href": "https://dev01.rmdatacentral.com/Portal1234/api/actions/index.html"
+        },
         { "name": "", "href": "" }
       ]
     },
@@ -319,7 +322,7 @@
         { "name": "", "href": "" },
         { "label": "-" },
         { "label": "ㅤㅤㅤㅤazure devops" },
-        { 
+        {
           "name": "partechnology",
           "href": "https://partechnology.visualstudio.com/",
           "title": "",
@@ -370,14 +373,14 @@
           "name": "internal",
           "href": "https://partech-my.sharepoint.com/:p:/p/marc_greenberg/EcXhhSPRNy9FgXZCiwwonbUBsb8n0mjnWJOFG5Avo8vM9Q?e=wjsgCs",
           "hint": "2022 Roadmap for Internal Consumption",
-          "label2":" | ",
+          "label2": " | ",
           "name2": "external",
           "href2": "https://partech-my.sharepoint.com/:p:/p/marc_greenberg/EYmXFV5VQYVJuXMyL1K-81gBwaif7EFCH-NwJSL47VzMsA?e=ousg9zhttps://partech-my.sharepoint.com/:p:/p/marc_greenberg/EYmXFV5VQYVJuXMyL1K-81gBwaif7EFCH-NwJSL47VzMsA?e=ousg9z",
-          "hint2": "2022 Roadmap for External Consumption",
+          "hint2": "2022 Roadmap for External Consumption"
         },
         { "label": "-" },
-        { 
-          "name": "latest earnings call transcript", 
+        {
+          "name": "latest earnings call transcript",
           "href": "https://seekingalpha.com/article/4509948-par-technology-corporation-par-ceo-savneet-singh-on-q1-2022-results-earnings-call-transcript",
           "hint": "Par Technology Corporation (PAR) CEO Savneet Singh on Q1 2022 Results - Earnings Call Transcript"
         },
@@ -426,9 +429,10 @@
           "href4": "https://music.amazon.com/"
         },
         { "label": "-" },
-        { 
-          "name": "confluent cloud", 
-          "href": "https://confluent.cloud/home" }
+        {
+          "name": "confluent cloud",
+          "href": "https://confluent.cloud/home"
+        }
       ]
     },
     {
