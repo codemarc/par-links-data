@@ -65,29 +65,31 @@
           "href4": "https://resources.github.com/github-insider/practitioner/"
         },
         {
-          "name": "github:me",
+          "name": "gh:me",
           "href": "https://github.com",
           "label2": " | ",
-          "name2": "as par",
+          "name2": "par",
           "href2": "https://github.com/par-brink",
           "label3": " | ",
-          "name3": "as punchh",
-          "href3": "https://github.com/punchh/"
+          "name3": "punchh",
+          "href3": "https://github.com/punchh/",
+          "label4": " | ",
+          "name4": "status"
         },
         {
           "label": "-"
         },
         {
           "name": "bitbucket",
-          "href": "https://devops.partech.com/bitbucket/projects",
-          "label2": " | ",
-          "name2": "jenkins",
-          "href2": "https://build.partech.com/teams-brink/"
+          "href": "https://devops.partech.com/bitbucket/projects"
         },
         {
           "label": "-"
         },
-        { "name": "", "href": "" }
+        { 
+          "name": "", 
+          "href": "" 
+        }
       ]
     },
     {
@@ -367,20 +369,25 @@
           "label": "2022/RM ☆ ",
           "name": "internal",
           "href": "https://partech-my.sharepoint.com/:p:/p/marc_greenberg/EcXhhSPRNy9FgXZCiwwonbUBsb8n0mjnWJOFG5Avo8vM9Q?e=wjsgCs",
+          "hint": "2022 Roadmap for Internal Consumption",
           "label2":" | ",
           "name2": "external",
-          "href2": "https://partech-my.sharepoint.com/:p:/p/marc_greenberg/EYmXFV5VQYVJuXMyL1K-81gBwaif7EFCH-NwJSL47VzMsA?e=ousg9zhttps://partech-my.sharepoint.com/:p:/p/marc_greenberg/EYmXFV5VQYVJuXMyL1K-81gBwaif7EFCH-NwJSL47VzMsA?e=ousg9z"
+          "href2": "https://partech-my.sharepoint.com/:p:/p/marc_greenberg/EYmXFV5VQYVJuXMyL1K-81gBwaif7EFCH-NwJSL47VzMsA?e=ousg9zhttps://partech-my.sharepoint.com/:p:/p/marc_greenberg/EYmXFV5VQYVJuXMyL1K-81gBwaif7EFCH-NwJSL47VzMsA?e=ousg9z",
+          "hint2": "2022 Roadmap for External Consumption",
         },
         { "label": "-" },
-        { "name": "", "href": "" },
+        { 
+          "name": "latest earnings call transcript", 
+          "href": "https://seekingalpha.com/article/4509948-par-technology-corporation-par-ceo-savneet-singh-on-q1-2022-results-earnings-call-transcript",
+          "hint": "Par Technology Corporation (PAR) CEO Savneet Singh on Q1 2022 Results - Earnings Call Transcript"
+        },
         { "name": "", "href": "" },
         {
           "label": "-",
           "name": "unified commerce platform",
-          "title": "unified commerce cloud platform",
-          "href": "https://www.partech.com/wp-content/uploads/2021/10/Investor-Relations-Deck-051221-vFF.pdf"
+          "href": "https://www.partech.com/wp-content/uploads/2021/10/Investor-Relations-Deck-051221-vFF.pdf",
+          "hint": "10/2021 Investor Relations Deck on UCP"
         }
-
       ]
     },
     {
@@ -419,7 +426,9 @@
           "href4": "https://music.amazon.com/"
         },
         { "label": "-" },
-        { "name": "", "href": "" }
+        { 
+          "name": "confluent cloud", 
+          "href": "https://confluent.cloud/home" }
       ]
     },
     {
