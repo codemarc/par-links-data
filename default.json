@@ -23,8 +23,8 @@
           "name2": "mail ",
           "href2": "https://outlook.office.com/mail/",
           "label3": "ㅤ|ㅤ",
-          "name3": " delve",
-          "href3": "https://nam.delve.office.com/"
+          "name3": " ppt",
+          "href3": "https://www.office.com/launch/powerpoint/"
         },
         {
           "label": "-",
@@ -311,8 +311,7 @@
     },
     {
       "section": "devops",
-      "href": "",
-      "title": "rip that pipeline",
+      "href": "https://partechnology.atlassian.net/wiki/spaces/HOS/",
       "links": [
         {
           "name2": "jenkins",
@@ -431,7 +430,10 @@
         { "label": "-" },
         {
           "name": "confluent cloud",
-          "href": "https://confluent.cloud/home"
+          "href": "https://confluent.cloud/home",
+          "label2": "ㅤ|ㅤ",
+          "name2": "developer",
+          "href2": "https://developer.confluent.io/"
         }
       ]
     },
