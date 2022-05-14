@@ -1,5 +1,6 @@
 {
-  "version": "0.0.7",
+  "version": "0.0.8",
+  "message": "perfect should not stand in the way of good progress",
   "config": [
     {
       "section": "communicate",
@@ -200,11 +201,7 @@
           "name": "",
           "href": ""
         },
-
-        {
-          "name": "",
-          "href": ""
-        },
+        { "label": "-" },
         {
           "name": "dynamodb",
           "href": "https://us-west-2.console.aws.amazon.com/dynamodbv2/home?region=us-west-2#tables",
@@ -310,32 +307,36 @@
       ]
     },
     {
-      "section": "devops",
-      "href": "https://partechnology.atlassian.net/wiki/spaces/HOS/",
+      "section": "ucp",
+      "title": "10/2021 Investor Relations Deck on UCP",
+      "href": "https://www.partech.com/wp-content/uploads/2021/10/Investor-Relations-Deck-051221-vFF.pdf",
+      "label2": "ㅤㅤㅤㅤㅤㅤㅤ",
+      "section2": "devbeucp",
+      "href2": "https://devbeucp.signin.aws.amazon.com/console",
+      "title2": "Bacon and Eggs,\nA UCP development",
       "links": [
-        {
-          "name2": "jenkins",
-          "href2": "https://build.partech.com/teams-brink/"
-        },
+        { "name": "", "href": "" },
         { "name": "", "href": "" },
         { "name": "", "href": "" },
         { "label": "-" },
-        { "label": "ㅤㅤㅤㅤazure devops" },
         {
-          "name": "partechnology",
-          "href": "https://partechnology.visualstudio.com/",
-          "title": "",
-          "label2": "ㅤ|ㅤ",
-          "name2": "accsysinc",
-          "href2": "https://accsysinc.visualstudio.com/"
-        }
+          "name": "ptp/wip - show me the menu",
+          "href": "https://bit.ly/38gTDWf",
+          "hint": "menu straw man"
+        },
+        { "name": "", "href": "" }
       ]
     },
     {
-      "section": "p&t onboarding guide",
+      "section": "p&t onboarding",
       "href": "https://docs.google.com/document/d/1FAbJdUbRdljNZ51L6A39xRR9dy3cH0SjZsgxcFrOeqM/edit?usp=sharing",
       "title": "PAR Product & Technology Onboarding Guide",
       "links": [
+        {
+          "name": "latest earnings call transcript",
+          "href": "https://seekingalpha.com/article/4509948-par-technology-corporation-par-ceo-savneet-singh-on-q1-2022-results-earnings-call-transcript",
+          "hint": "Par Technology Corporation (PAR) CEO Savneet Singh on Q1 2022 Results - Earnings Call Transcript"
+        },
         {
           "label": "zoom ",
           "name": "curated list",
@@ -352,21 +353,6 @@
           "name": "new hire deck (old)",
           "href": "https://partech.sharepoint.com/:p:/r/sites/PARHub-HR/US%20Employee%20Document%20Library/New%20Hire%20On-Boarding%20Hub/New%20Hire%20Guides/New%20Hire%20Onboarding%20Slides.pptx?d=w9e0bc397ee604e9b8c0b68aa070a3973&csf=1&web=1&e=00bAwa"
         },
-        { "name": "", "href": "" },
-        { "label": "-" },
-        {
-          "name": "payments roadmap",
-          "href": "https://docs.google.com/presentation/d/11H-SJ1JtlLlU9iNwfL7LEwjH6HUW2b6H1hNJc-pX5MY/edit#slide=id.g113d9f7ea26_0_0",
-          "label2": " | ",
-          "name2": "parpay",
-          "href2": "https://www.partech.com/products/par-pay/"
-        }
-      ]
-    },
-    {
-      "section": "tactics / strategies",
-      "href": "#",
-      "links": [
         {
           "label": "2022/RM ☆ ",
           "name": "internal",
@@ -377,18 +363,12 @@
           "href2": "https://partech-my.sharepoint.com/:p:/p/marc_greenberg/EYmXFV5VQYVJuXMyL1K-81gBwaif7EFCH-NwJSL47VzMsA?e=ousg9zhttps://partech-my.sharepoint.com/:p:/p/marc_greenberg/EYmXFV5VQYVJuXMyL1K-81gBwaif7EFCH-NwJSL47VzMsA?e=ousg9z",
           "hint2": "2022 Roadmap for External Consumption"
         },
-        { "label": "-" },
         {
-          "name": "latest earnings call transcript",
-          "href": "https://seekingalpha.com/article/4509948-par-technology-corporation-par-ceo-savneet-singh-on-q1-2022-results-earnings-call-transcript",
-          "hint": "Par Technology Corporation (PAR) CEO Savneet Singh on Q1 2022 Results - Earnings Call Transcript"
-        },
-        { "name": "", "href": "" },
-        {
-          "label": "-",
-          "name": "unified commerce platform",
-          "href": "https://www.partech.com/wp-content/uploads/2021/10/Investor-Relations-Deck-051221-vFF.pdf",
-          "hint": "10/2021 Investor Relations Deck on UCP"
+          "name": "payments roadmap",
+          "href": "https://docs.google.com/presentation/d/11H-SJ1JtlLlU9iNwfL7LEwjH6HUW2b6H1hNJc-pX5MY/edit#slide=id.g113d9f7ea26_0_0",
+          "label2": " | ",
+          "name2": "parpay",
+          "href2": "https://www.partech.com/products/par-pay/"
         }
       ]
     },
@@ -403,7 +383,6 @@
           "name2": "visualstudio",
           "href2": "https://my.visualstudio.com/?auth_redirect=true"
         },
-        { "label": "-" },
         {
           "name": "console",
           "href": "http://console.aws.amazon.com/",
@@ -434,6 +413,29 @@
           "label2": "ㅤ|ㅤ",
           "name2": "developer",
           "href2": "https://developer.confluent.io/"
+        },
+        { "name": "", "href": "" }
+      ]
+    },
+    {
+      "section": "devops",
+      "href": "https://partechnology.atlassian.net/wiki/spaces/HOS/",
+      "links": [
+        {
+          "name2": "jenkins",
+          "href2": "https://build.partech.com/teams-brink/"
+        },
+        { "name": "", "href": "" },
+        { "name": "", "href": "" },
+        { "label": "-" },
+        { "label": "ㅤㅤㅤㅤazure devops" },
+        {
+          "name": "partechnology",
+          "href": "https://partechnology.visualstudio.com/",
+          "title": "",
+          "label2": "ㅤ|ㅤ",
+          "name2": "accsysinc",
+          "href2": "https://accsysinc.visualstudio.com/"
         }
       ]
     },
@@ -462,11 +464,11 @@
           "name2": "punchh",
           "href2": "https://status.punchh.com/"
         },
+        { "label": "-" },
         {
           "name": "",
           "href": ""
         },
-        { "label": "-" },
         {
           "name": "",
           "href": ""
