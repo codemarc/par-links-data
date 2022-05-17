@@ -150,11 +150,15 @@
           "name3": "can",
           "href3": "https://partech.sharepoint.com/:b:/r/sites/PARHub-HR/SiteAssets/SitePages/PARHub-HR/2022-PAR---Punchh-Canada-Payroll-Calendar.pdf?csf=1&web=1&e=G6UDVX"
         },
-        { "label": "-" },
-        {
-          "name": "lattice people mgmt platform",
+        { 
+          "name": "lattice ppl mgmt",
           "href": "https://punchh.latticehq.com/",
-          "title": "Lattice is a people management platform that empowers leaders to build engaged, high-performing teams that inspire winning cultures."
+          "title": "Lattice is a people management platform that empowers leaders to build engaged, high-performing teams that inspire winning cultures.",
+          "label2": " ☆ ",
+          "name2": "swag",
+          "href2": "https://store.masteryourimage.com/PARTECH32436/shop/home"
+        },
+        {
         },
         { "label": "-" },
         {
@@ -315,16 +319,29 @@
       "href2": "https://devbeucp.signin.aws.amazon.com/console",
       "title2": "Bacon and Eggs,\nA UCP development",
       "links": [
+        {
+          "name": "confluent cloud",
+          "href": "https://confluent.cloud/home",
+          "label2": "ㅤ|ㅤ",
+          "name2": "developer",
+          "href2": "https://developer.confluent.io/"
+        },
         { "name": "", "href": "" },
-        { "name": "", "href": "" },
-        { "name": "", "href": "" },
+        { 
+          "name": "50galpha", 
+          "href": "https://qa50galphaap.brinkpos.net/Public/Login" 
+        },
+
         { "label": "-" },
         {
           "name": "ptp/wip - show me the menu",
           "href": "https://bit.ly/38gTDWf",
           "hint": "menu straw man"
         },
-        { "name": "", "href": "" }
+        { 
+          "name": "bacon and eggs", 
+          "href": "https://github.com/par-ucp/bacon-and-eggs" 
+        }
       ]
     },
     {
@@ -407,13 +424,7 @@
           "href4": "https://music.amazon.com/"
         },
         { "label": "-" },
-        {
-          "name": "confluent cloud",
-          "href": "https://confluent.cloud/home",
-          "label2": "ㅤ|ㅤ",
-          "name2": "developer",
-          "href2": "https://developer.confluent.io/"
-        },
+        { "name": "", "href": "" },
         { "name": "", "href": "" }
       ]
     },
