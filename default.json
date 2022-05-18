@@ -324,8 +324,9 @@
           "href": "https://qa50galphaap.brinkpos.net/Public/Login",
           "label2": "ㅤ|ㅤ",
           "name2": "api portal",
-          "href2": "https://brinkapiportal.brinkpos.net",
+          "href2": "https://brinkapiportal.brinkpos.net"
         },
+        { "label": "-" },
         {
           "name": "confluent cloud",
           "href": "https://confluent.cloud/home",
@@ -333,9 +334,9 @@
           "name2": "developer",
           "href2": "https://developer.confluent.io/"
         },
-        { "label": "-" },
+        { "label": "-" },     
         {
-          "name": "ptp/wip - show me the menu",
+          "name": "ppt/wip - show me the menu",
           "href": "https://bit.ly/38gTDWf",
           "hint": "menu straw man"
         },
