@@ -172,7 +172,7 @@
     },
     {
       "section": "brink pos",
-      "href": "https://admin-apiint.brinkpos.net/",
+      "href": "https://bs-sw.today/",
       "title": "make the experience flawless",
       "label2": "ㅤㅤㅤㅤㅤㅤ",
       "section2": "about",
@@ -314,11 +314,18 @@
       "section": "ucp",
       "title": "10/2021 Investor Relations Deck on UCP",
       "href": "https://www.partech.com/wp-content/uploads/2021/10/Investor-Relations-Deck-051221-vFF.pdf",
-      "label2": "ㅤㅤㅤㅤㅤㅤㅤ",
-      "section2": "devbeucp",
-      "href2": "https://devbeucp.signin.aws.amazon.com/console",
+      "label2": "ㅤㅤㅤㅤㅤㅤ",
+      "section2": "ucpsandbox",
+      "href2": "https://ucpsandbox.signin.aws.amazon.com/console",
       "title2": "Bacon and Eggs,\nA UCP development",
       "links": [
+        { 
+          "name": "brink5.0g alpha", 
+          "href": "https://qa50galphaap.brinkpos.net/Public/Login",
+          "label2": "ㅤ|ㅤ",
+          "name2": "api portal",
+          "href2": "https://brinkapiportal.brinkpos.net",
+        },
         {
           "name": "confluent cloud",
           "href": "https://confluent.cloud/home",
@@ -326,12 +333,6 @@
           "name2": "developer",
           "href2": "https://developer.confluent.io/"
         },
-        { "name": "", "href": "" },
-        { 
-          "name": "50galpha", 
-          "href": "https://qa50galphaap.brinkpos.net/Public/Login" 
-        },
-
         { "label": "-" },
         {
           "name": "ptp/wip - show me the menu",
@@ -468,12 +469,14 @@
           "label": "-"
         },
         {
-          "label": "statusㅤ",
-          "name": "par",
+          "name": "status",
           "href": "https://parit.statuspage.io/",
           "label2": " | ",
-          "name2": "punchh",
-          "href2": "https://status.punchh.com/"
+          "name2": "brink",
+          "href2": "https://status.brinkpos.net/",
+          "label3": " | ",
+          "name3": "punchh",
+          "href3": "https://status.punchh.com/"
         },
         { "label": "-" },
         {
