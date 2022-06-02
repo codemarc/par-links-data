@@ -1,5 +1,5 @@
 {
-  "version": "0.0.8",
+  "version": "0.0.9",
   "message": "perfect should not stand in the way of good progress",
   "config": [
     {
@@ -70,7 +70,7 @@
           "href": "https://github.com",
           "label2": " | ",
           "name2": "par",
-          "href2": "https://github.com/par-brink",
+          "href2": "https://github.com/enterprises/par-technology",
           "label3": " | ",
           "name3": "punchh",
           "href3": "https://github.com/punchh/",
@@ -316,16 +316,25 @@
       "label2": "ㅤㅤㅤㅤㅤㅤ",
       "section2": "ucpsandbox",
       "href2": "https://ucpsandbox.signin.aws.amazon.com/console",
-      "title2": "Bacon and Eggs,\nA UCP development",
+      "title2": "AWS Bacon and Eggs,\nA UCP development",
       "links": [
         { 
           "name": "brink5.0g alpha", 
           "href": "https://qa50galphaap.brinkpos.net/Public/Login",
-          "label2": "ㅤ|ㅤ",
-          "name2": "api portal",
+          "hint": "From MarcJ\nEnv used by QA",
+          "label2": "ㅤㅤ",
+          "name2": "devbeucp",
+          "href2": "https://devbeucpap.brinkpos.net/Public/Login",
+          "hint2": "Brink UCP Dev Stack"
+        },
+        {
+          "name": "brink5.0.7214",
+          "href": "https://admin-apiint.brinkpos.net/Public/Login",
+          "hint": "From AndrewR\nWith Data Used by Integrations",
+          "label2": "ㅤㅤㅤ",
+          "name2": "api doc",
           "href2": "https://brinkapiportal.brinkpos.net"
         },
-        { "label": "-" },
         {
           "name": "confluent cloud",
           "href": "https://confluent.cloud/home",
@@ -341,7 +350,10 @@
         },
         { 
           "name": "bacon and eggs", 
-          "href": "https://github.com/par-ucp/bacon-and-eggs" 
+          "href": "https://github.com/par-ucp/bacon-and-eggs",
+          "label2": " | ",
+          "name2": "gh-project",
+          "href2": "https://github.com/orgs/par-ucp/projects/4"
         }
       ]
     },
