@@ -1,6 +1,6 @@
 {
-  "version": "0.0.9",
-  "message": "You miss 100% of the shots you don’t take – Wayne Gretzk",
+  "version": "0.0.10",
+  "message": "You miss 100% of the shots you don't take - Wayne Gretzky",
   "config": [
     {
       "section": "communicate",
@@ -355,6 +355,8 @@
         { 
           "name": "☆☆☆☆☆ bae ☆☆☆☆☆",
           "href": "https://raw.githubusercontent.com/codemarc/par-links-data/master/baeCurrent.png"
+          
+
         },
         {
           "name": "ppt/wip - show me the menu",
