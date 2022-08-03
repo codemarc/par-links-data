@@ -1,6 +1,6 @@
 {
   "version": "0.0.10",
-  "message": "You miss 100% of the shots you don't take - Wayne Gretzky",
+  "message": "You miss 100% of the shots you don't take - Wayne GretzkY",
   "config": [
     {
       "section": "communicate",
@@ -81,15 +81,15 @@
           "label": "-"
         },
         {
-          "name": "bitbucket",
-          "href": "https://devops.partech.com/bitbucket/projects"
+          "name": "rome",
+          "href": "https://github.com/orgs/par-ucp/projects/5"
         },
         {
           "label": "-"
         },
         {
-          "name": "",
-          "href": ""
+          "name": "bitbucket",
+          "href": "https://devops.partech.com/bitbucket/projects"
         }
       ]
     },
@@ -169,7 +169,6 @@
           "title": "Lattice is a people management platform that empowers leaders to build engaged, high-performing teams that inspire winning cultures."
         },
         {
-          "label": "-",
           "name": "active directory",
           "href": "https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Overview",
           "label2": "ㅤㅤㅤㅤ",
@@ -184,7 +183,7 @@
       "title": "make the experience flawless",
       "label2": "ㅤㅤㅤㅤㅤㅤ",
       "section2": "about",
-      "href2": "https://www.youtube.com/watch?v=m5IfgQaA75g",
+      "href2": "https://app.smartsheet.com/b/publish?EQBCT=8f4cc5aca9fa4e2ebe6bc3af2bae800f",
       "links": [
         {
           "name": "roadmap",
@@ -355,8 +354,6 @@
         { 
           "name": "☆☆☆☆☆ bae ☆☆☆☆☆",
           "href": "https://raw.githubusercontent.com/codemarc/par-links-data/master/baeCurrent.png"
-          
-
         },
         {
           "name": "ppt/wip - show me the menu",
@@ -373,10 +370,14 @@
       ]
     },
     {
-      "section": "p&t onboarding",
+      "section": "product",
       "href": "https://docs.google.com/document/d/1FAbJdUbRdljNZ51L6A39xRR9dy3cH0SjZsgxcFrOeqM/edit?usp=sharing",
       "title": "PAR Product & Technology Onboarding Guide",
       "links": [
+        {
+         "name": "partech dynamics crm",
+         "href": "https://partech.crm.dynamics.com" 
+        },
         {
           "name": "latest earnings call transcript",
           "href": "https://seekingalpha.com/article/4509948-par-technology-corporation-par-ceo-savneet-singh-on-q1-2022-results-earnings-call-transcript",
@@ -397,10 +398,6 @@
           "xlabel2": " | ",
           "xname2": "teams",
           "xhref2": "https://partech-my.sharepoint.com/personal/marc_greenberg_partech_com/Documents/Documents/Par/org/TeamBrink.pdf "
-        },
-        {
-          "name": "",
-          "href": ""
         },
         {
           "xname": "new hire deck (old)",
@@ -482,31 +479,58 @@
       ]
     },
     {
-      "section": "devops",
-      "href": "https://partechnology.atlassian.net/wiki/spaces/HOS/",
+
+      "section": "octo",
+      "title": "content from the office of the CTO",
+      "href": "",
+      "label2": "ㅤㅤㅤㅤㅤㅤㅤㅤ",
+      "section2": "rome",
+      "href2": "https://github.com/par-ucp/rome/wiki#team-rome",
+      "title2": "team rome",
       "links": [
-        {
-          "name2": "jenkins",
-          "href2": "https://build.partech.com/teams-brink/"
+        { 
+          "name": "speed matters", 
+          "href": "https://jsomers.net/blog/speed-matters"
         },
-        { "name": "", "href": "" },
-        { "name": "", "href": "" },
-        { "label": "-" },
-        { "label": "ㅤㅤㅤㅤazure devops" },
         {
-          "name": "partechnology",
-          "href": "https://partechnology.visualstudio.com/",
-          "title": "",
-          "label2": "ㅤ|ㅤ",
-          "name2": "accsysinc",
-          "href2": "https://accsysinc.visualstudio.com/"
+          "name": "",
+          "href": ""
+        },
+        {
+          "name": "",
+          "href": ""
+        },
+        {
+          "name": "",
+          "href": ""
+        },
+        {
+          "label":"-",
+          "name": "",
+          "href": ""
+        },
+        {
+          "name": "",
+          "href": ""
         }
       ]
     },
     {
-      "section": "status/monitors",
-      "href": "https://app.smartsheet.com/b/publish?EQBCT=8f4cc5aca9fa4e2ebe6bc3af2bae800f",
+      "section": "devops",
+      "href": "https://partechnology.atlassian.net/wiki/spaces/HOS/",
       "links": [
+        {
+          "label": "status:ㅤㅤ",
+          "name": "par",
+          "href": "https://parit.statuspage.io/",
+          "label2": " | ",
+          "name2": "brink",
+          "href2": "https://status.brinkpos.net/",
+          "label3": " | ",
+          "name3": "punchh",
+          "href3": "https://status.punchh.com/"
+        },
+
         {
           "name": "datadog",
           "href": "https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapp.datadoghq.com%2Faccount%2Flogin%2Fid%2F9cb01a415&data=04%7C01%7Cmarc_greenberg%40partech.com%7C81db86674abe4e6babd608da163bf827%7C222d8e1f937949f18f4eca26d1c24602%7C1%7C0%7C637846744068861567%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=YtgOkIdQpXK36XWUb10ple%2FmIWuy5NVenfyWLuexZn4%3D&reserved=0",
@@ -518,26 +542,18 @@
           "href3": "https://partechnology.atlassian-app.opsgenie.com"
         },
         {
-          "label": "-"
-        },
-        {
-          "name": "status",
-          "href": "https://parit.statuspage.io/",
-          "label2": " | ",
-          "name2": "brink",
-          "href2": "https://status.brinkpos.net/",
-          "label3": " | ",
-          "name3": "punchh",
-          "href3": "https://status.punchh.com/"
+          "name": "jenkins",
+          "href": "https://build.partech.com/teams-brink/"
         },
         { "label": "-" },
+        { "label": "ㅤㅤㅤㅤazure devops" },
         {
-          "name": "",
-          "href": ""
-        },
-        {
-          "name": "",
-          "href": ""
+          "name": "partechnology",
+          "href": "https://partechnology.visualstudio.com/",
+          "title": "",
+          "label2": "ㅤ|ㅤ",
+          "name2": "accsysinc",
+          "href2": "https://accsysinc.visualstudio.com/"
         }
       ]
     }
