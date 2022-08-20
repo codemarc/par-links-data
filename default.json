@@ -1,6 +1,6 @@
 {
-  "version": "0.0.10",
-  "message": "You miss 100% of the shots you don't take - Wayne GretzkY",
+  "version": "0.0.11",
+  "message": "Unifying, Rather Than Integrating, Yields Tangible Market Value​",
   "config": [
     {
       "section": "communicate",
@@ -81,8 +81,8 @@
           "label": "-"
         },
         {
-          "name": "rome",
-          "href": "https://github.com/orgs/par-ucp/projects/5"
+          "name": "miro",
+          "href": "https://miro.com/app/dashboard/"
         },
         {
           "label": "-"
@@ -112,7 +112,9 @@
           "name": "a cloud guru",
           "href": "https://learn.acloud.guru/dashboard"
         },
-        { "label": "-" },
+        {
+          "label": "-"
+        },
         {
           "name": "PAR Academy",
           "href": "https://academy.partech.com/"
@@ -209,15 +211,12 @@
           "href3": "https://partechnology.atlassian.net/wiki/label/BRD/environments"
         },
         {
-          "name": "5.0g alpha",
-          "href": "https://qa50galphaap.brinkpos.net/Public/Login",
-          "hint": "From MarcJ\nEnv used by QA",
-          "label2": "ㅤㅤ",
-          "name2": "5.0.7214",
-          "href2": "https://admin-apiint.brinkpos.net/Public/Login",
-          "hint2": "From AndrewR\nWith Data Used by Integrations"
+          "name": "register training",
+          "href": "https://partech.sharepoint.com/sites/BrinkQA-Team/Shared%20Documents/QA%20Training%20Videos/On-Boarding%20Videos/Register%20Training.mp4"
         },
-        { "label": "-" },
+        {
+          "label": "-"
+        },
         {
           "name": "dynamodb",
           "href": "https://us-west-2.console.aws.amazon.com/dynamodbv2/home?region=us-west-2#tables",
@@ -270,9 +269,13 @@
           "name3": "tagged",
           "href3": "https://punchhdev.atlassian.net/wiki/label/BRD/environments"
         },
-
-        { "name": "", "href": "" },
-        { "label": "-" },
+        {
+          "name": "",
+          "href": ""
+        },
+        {
+          "label": "-"
+        },
         {
           "name": "openvpn access server",
           "href": "https://vpn.punchh.com/?src=connect"
@@ -313,59 +316,129 @@
           "name3": "teams",
           "href3": "https://teams.microsoft.com/l/channel/19%3A102963c0adc34178a70a2bb9a9b99837%40thread.tacv2/tab%3A%3A77c80d1d-f9d3-49f9-ade9-ef1d85970a66?groupId=b74c42d4-eee4-4cf1-9152-578fb75f62c6&tenantId=222d8e1f-9379-49f1-8f4e-ca26d1c24602"
         },
-        { "name": "", "href": "" },
-        { "label": "-" },
-        { "name": "", "href": "" },
-        { "name": "", "href": "" }
+        {
+          "name": "",
+          "href": ""
+        },
+        {
+          "label": "-"
+        },
+        {
+          "name": "",
+          "href": ""
+        },
+        {
+          "name": "",
+          "href": ""
+        }
+      ]
+    },
+    {
+      "section": "menu center",
+      "title": "A PAR Technology Company",
+      "href": "https://www.menu.app/",
+      "label2": "ㅤㅤㅤ",
+      "section2": "cms login",
+      "href2": "https://cms-mens.menu.app/#/login",
+      "links": [
+        {
+          "name": "roadmap",
+          "href": "",
+          "label2": " | ",
+          "name2": "wiki",
+          "href2": "",
+          "label3": " | ",
+          "name3": "issues",
+          "href3": "",
+          "label4": " | ",
+          "name4": "arch",
+          "href4": ""
+        },
+        {
+          "label": "-"
+        },
+        {
+          "name": "product demo",
+          "href": "https://drive.google.com/file/d/1GP_eqpO_neIWdlddkvvaIXpENh7Ivrnw/view?usp=sharing"
+        },
+        {
+          "name": "white label front end demo",
+          "href": "https://drive.google.com/file/d/1xmjvVCKOTdNcMxY9z6AMztln8eOv4MtM/view?usp=sharing"
+        },
+        {
+          "label": "-"
+        },
+        {
+          "name": "",
+          "href": ""
+        }
       ]
     },
     {
       "section": "ucp",
-      "title": "10/2021 Investor Relations Deck on UCP",
-      "href": "https://www.partech.com/wp-content/uploads/2021/10/Investor-Relations-Deck-051221-vFF.pdf",
+      "title": "repos on github",
+      "href": "https://github.com/par-ucp",
       "label2": "ㅤㅤㅤㅤㅤㅤ",
       "section2": "ucpsandbox",
       "href2": "https://ucpsandbox.signin.aws.amazon.com/console",
       "title2": "AWS Bacon and Eggs,\nA UCP development",
       "links": [
         {
-          "name": "brink pos",
-          "href": "https://devbeucpap.brinkpos.net/Public/Login",
-          "hint": "Brink UCP Dev Stack\nAdmin Portal",
-          "label2": "ㅤㅤㅤ",
-          "name2": "brink api",
-          "href2": "https://brinkapiportal.brinkpos.net"
-        },
-        {
-          "name": "data central",
-          "href": "https://dev01.rmdatacentral.com/portal1234/login",
-          "hint": "data central account for bacon and eggs",
-          "label2": "ㅤㅤ",
-          "name2": "dc api",
-          "href2": "https://dev01.rmdatacentral.com/Portal1234/api/actions/index.html"
-        },
-        {
-          "name": "punchh",
-          "href": "https://dashboard.us-west.punchh.com/dashboard",
-          "label2": "ㅤㅤㅤㅤ",
-          "name2": "punchh api",
-          "href2": "https://developers.punchh.com/"
-        },
-        { 
-          "name": "☆☆☆☆☆ bae ☆☆☆☆☆",
-          "href": "https://raw.githubusercontent.com/codemarc/par-links-data/master/baeCurrent.png"
-        },
-        {
-          "name": "ppt/wip - show me the menu",
-          "href": "https://bit.ly/38gTDWf",
-          "hint": "menu straw man"
-        },
-        {
-          "name": "bacon and eggs",
-          "href": "https://github.com/par-ucp/bacon-and-eggs",
+          "name": "roadmap",
+          "href": "",
           "label2": " | ",
-          "name2": "gh-project",
-          "href2": "https://github.com/orgs/par-ucp/projects/4"
+          "name2": "wiki",
+          "href2": "https://partechnology.atlassian.net/wiki/spaces/UCP/overview",
+          "label3": " | ",
+          "name3": "issues",
+          "href3": "https://github.com/orgs/par-ucp/projects?type=new",
+          "label4": " | ",
+          "name4": "arch",
+          "href4": "https://partechnology.atlassian.net/wiki/spaces/SASS/pages/3629973731/Future+State+Architecture+and+DevOps"
+        },
+        {
+          "label": "portals:ㅤ",
+          "name": "brink",
+          "href": "https://devbeucpap.brinkpos.net/Public/Login",
+          "hint": "Bacon and Eggs\nBrink Admin Portal\n(mjg:a-^)",
+          "label2": "ㅤ",
+          "name2": "dc",
+          "href2": "https://dev01.rmdatacentral.com/portal1234/",
+          "hint2": "Bacon and Eggs\nData Central Admin Portal\n(usr@ucp:1-5)",
+          "label3": "ㅤ",
+          "name3": "punchh",
+          "href3": "https://dashboard.us-west.punchh.com/dashboard",
+          "hint3": "okta creds\nglobalpw@punch.com"
+        },
+        {
+          "label": "apis:ㅤ ㅤ",
+          "name": " brink",
+          "href": "https://brinkapiportal.brinkpos.net/",
+          "hint": "marc_codemarc",
+          "label2": "ㅤ",
+          "name2": "dc",
+          "href2": "https://dev01.rmdatacentral.com/Portal1234/api/actions/index.html",
+          "label3": "ㅤ",
+          "name3": "punchh",
+          "href3": "https://developers.punchh.com/",
+        },
+        {
+          "label": "-"
+        },
+        {
+          "name": "bae arch:",
+          "href": "https://github.com/par-ucp/rome/blob/main/img/bae.png?raw=true",
+          "hint": "What is bacon and eggs",
+          "label2": "ㅤ",
+          "name2": "duce",
+          "href2": "https://github.com/par-ucp/rome/blob/main/img/duce.png?raw=true",
+          "label3": "ㅤ",
+          "name3": "duck",
+          "href3": "https://github.com/par-ucp/rome/blob/main/img/duck.png?raw=true"
+        },
+        {
+          "name": "",
+          "href": ""
         }
       ]
     },
@@ -375,8 +448,8 @@
       "title": "PAR Product & Technology Onboarding Guide",
       "links": [
         {
-         "name": "partech dynamics crm",
-         "href": "https://partech.crm.dynamics.com" 
+          "name": "partech dynamics crm",
+          "href": "https://partech.crm.dynamics.com"
         },
         {
           "name": "latest earnings call transcript",
@@ -467,47 +540,15 @@
           "name4": "music",
           "href4": "https://music.amazon.com/"
         },
-        { "label": "-" },
+        {
+          "label": "-"
+        },
         {
           "name": "confluent cloud",
           "href": "https://confluent.cloud/home",
           "label2": "ㅤ|ㅤ",
           "name2": "developer",
           "href2": "https://developer.confluent.io/"
-        },
-        { "name": "", "href": "" }
-      ]
-    },
-    {
-
-      "section": "octo",
-      "title": "content from the office of the CTO",
-      "href": "",
-      "label2": "ㅤㅤㅤㅤㅤㅤㅤㅤ",
-      "section2": "rome",
-      "href2": "https://github.com/par-ucp/rome/wiki#team-rome",
-      "title2": "team rome",
-      "links": [
-        { 
-          "name": "speed matters", 
-          "href": "https://jsomers.net/blog/speed-matters"
-        },
-        {
-          "name": "",
-          "href": ""
-        },
-        {
-          "name": "",
-          "href": ""
-        },
-        {
-          "name": "",
-          "href": ""
-        },
-        {
-          "label":"-",
-          "name": "",
-          "href": ""
         },
         {
           "name": "",
@@ -530,7 +571,6 @@
           "name3": "punchh",
           "href3": "https://status.punchh.com/"
         },
-
         {
           "name": "datadog",
           "href": "https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapp.datadoghq.com%2Faccount%2Flogin%2Fid%2F9cb01a415&data=04%7C01%7Cmarc_greenberg%40partech.com%7C81db86674abe4e6babd608da163bf827%7C222d8e1f937949f18f4eca26d1c24602%7C1%7C0%7C637846744068861567%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=YtgOkIdQpXK36XWUb10ple%2FmIWuy5NVenfyWLuexZn4%3D&reserved=0",
@@ -545,8 +585,12 @@
           "name": "jenkins",
           "href": "https://build.partech.com/teams-brink/"
         },
-        { "label": "-" },
-        { "label": "ㅤㅤㅤㅤazure devops" },
+        {
+          "label": "-"
+        },
+        {
+          "label": "ㅤㅤㅤㅤazure devops"
+        },
         {
           "name": "partechnology",
           "href": "https://partechnology.visualstudio.com/",
