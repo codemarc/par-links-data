@@ -99,7 +99,7 @@
     {
       "section": "learning",
       "href": "https://github.com/codemarc/ntmfs",
-      "label2": "ㅤㅤㅤㅤ",
+      "label2": "ㅤㅤㅤ",
       "section2": "earnings call",
       "href2": "https://seekingalpha.com/article/4509948-par-technology-corporation-par-ceo-savneet-singh-on-q1-2022-results-earnings-call-transcript",
       "hint2": "Par Technology Corporation (PAR) CEO Savneet Singh on Q1 2022 Results - Earnings Call Transcript",
@@ -349,7 +349,7 @@
       "section": "menu",
       "title": "A PAR Technology Company",
       "href": "https://www.menu.app/",
-      "label2": "ㅤㅤㅤㅤㅤㅤ",
+      "label2": "ㅤㅤㅤㅤㅤ",
       "section2": "mmc - dash",
       "href2": "https://manage-demo.menu.app/brands/111/analytics-performance/",
       "links": [
@@ -394,7 +394,7 @@
       "section": "ucp",
       "title": "repos on github",
       "href": "https://github.com/par-ucp",
-      "label2": "ㅤㅤㅤㅤㅤㅤㅤㅤㅤ",
+      "label2": "ㅤㅤㅤㅤㅤㅤㅤㅤ",
       "section2": "notes",
       "href2": "https://partechnology.atlassian.net/wiki/spaces/UCP/pages/5235605738/Meeting+notes",
       "links": [
@@ -438,7 +438,7 @@
       "section": "bae",
       "href": "https://github.com/par-ucp/rome/blob/main/img/bae.png?raw=true",
       "title": "What is Bacon and Eggs?",
-      "label2": "ㅤㅤㅤㅤㅤㅤㅤ",
+      "label2": "ㅤㅤㅤㅤㅤㅤ",
       "section2": "ucpsandbox",
       "href2": "https://ucpsandbox.signin.aws.amazon.com/console",
       "title2": "AWS Bacon and Eggs,\nA UCP development",
@@ -462,7 +462,7 @@
           "label": "-"
         },
         {
-          "label": "baby steps:ㅤ",
+          "label": "baby steps: ",
           "name": "duck duck",
           "href": "https://github.com/par-ucp/rome/blob/main/img/duck.png?raw=true",
           "label2": "ㅤ",
