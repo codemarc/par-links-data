@@ -1,6 +1,6 @@
 {
-  "version": "0.0.11",
-  "message": "Unifying, Rather Than Integrating, Yields Tangible Market Value​",
+  "version": "0.0.12",
+  "message": "Unifying, Rather Than Integrating, Yields Tangible Market Value",
   "config": [
     {
       "section": "communicate",
@@ -82,46 +82,58 @@
         },
         {
           "name": "miro",
-          "href": "https://miro.com/app/dashboard/"
+          "href": "https://miro.com/app/dashboard/",
+          "label2": "ㅤㅤㅤㅤㅤㅤㅤ",
+          "name2": "bitbucket",
+          "href2": "https://devops.partech.com/bitbucket/projects"
         },
         {
           "label": "-"
         },
         {
-          "name": "bitbucket",
-          "href": "https://devops.partech.com/bitbucket/projects"
+          "name": "dynamics crm",
+          "href": "https://partech.crm.dynamics.com"
         }
       ]
     },
     {
       "section": "learning",
       "href": "https://github.com/codemarc/ntmfs",
+      "label2": "ㅤㅤㅤㅤ",
+      "section2": "earnings call",
+      "href2": "https://seekingalpha.com/article/4509948-par-technology-corporation-par-ceo-savneet-singh-on-q1-2022-results-earnings-call-transcript",
+      "hint2": "Par Technology Corporation (PAR) CEO Savneet Singh on Q1 2022 Results - Earnings Call Transcript",
       "links": [
         {
           "name": "linkedin",
           "href": "https://www.linkedin.com/learning",
-          "label2": "ㅤ|ㅤ",
+          "label2": " | ",
           "name2": "pluralsight",
-          "href2": "https://app.pluralsight.com/library/"
+          "href2": "https://app.pluralsight.com/library/",
+          "label3": " | ",
+          "name3": "acguru",
+          "href3": "https://learn.acloud.guru/dashboard"
         },
         {
           "name": "zapier api concepts",
           "href": "https://zapier.com/learn/apis/"
         },
         {
-          "name": "a cloud guru",
-          "href": "https://learn.acloud.guru/dashboard"
+          "label": "-"
+        },
+        {
+          "name": "PAR Acad",
+          "href": "https://academy.partech.com/",
+          "label2": "ㅤ|ㅤ",
+          "name2": "Punchh Univ",
+          "href2": "https://punchhinternal.learnupon.com/dashboard"
         },
         {
           "label": "-"
         },
         {
-          "name": "PAR Academy",
-          "href": "https://academy.partech.com/"
-        },
-        {
-          "name": "Punchh University",
-          "href": "https://punchhinternal.learnupon.com/dashboard"
+          "name": "P&T Onboarding",
+          "href": "https://docs.google.com/document/d/1FAbJdUbRdljNZ51L6A39xRR9dy3cH0SjZsgxcFrOeqM/edit?usp=sharing"
         }
       ]
     },
@@ -334,25 +346,36 @@
       ]
     },
     {
-      "section": "menu center",
+      "section": "menu",
       "title": "A PAR Technology Company",
       "href": "https://www.menu.app/",
-      "label2": "ㅤㅤㅤ",
-      "section2": "cms login",
-      "href2": "https://cms-mens.menu.app/#/login",
+      "label2": "ㅤㅤㅤㅤㅤㅤ",
+      "section2": "mmc - dash",
+      "href2": "https://manage-demo.menu.app/brands/111/analytics-performance/",
       "links": [
         {
           "name": "roadmap",
-          "href": "",
+          "href": "https://menuteam.atlassian.net/wiki/spaces/MenuV3/pages/2280652816/JIRA+Roadmaps",
           "label2": " | ",
           "name2": "wiki",
-          "href2": "",
+          "href2": "https://menuteam.atlassian.net/wiki/spaces/MenuV3/overview",
           "label3": " | ",
           "name3": "issues",
-          "href3": "",
+          "href3": "https://menuteam.atlassian.net/jira/projects?page=1&selectedCategory=all&selectedProjectType=all&sortKey=name&sortOrder=ASC",
           "label4": " | ",
           "name4": "arch",
-          "href4": ""
+          "href4": "https://menuteam.atlassian.net/wiki/spaces/AWS/pages/657424409/MENU+-+AWS+EU+PRODUCTION+INFRASTRUCTURE+-+Frankfurt+Region+eu-central-1"
+        },
+        {
+          "name": "cms",
+          "href": "https://cms-us.menu.app",
+          "label2": " | ",
+          "name2": "manage",
+          "href2": "https://manage-us.menu.app/"
+        },
+        {
+          "name": "",
+          "href": ""
         },
         {
           "label": "-"
@@ -364,13 +387,6 @@
         {
           "name": "white label front end demo",
           "href": "https://drive.google.com/file/d/1xmjvVCKOTdNcMxY9z6AMztln8eOv4MtM/view?usp=sharing"
-        },
-        {
-          "label": "-"
-        },
-        {
-          "name": "",
-          "href": ""
         }
       ]
     },
@@ -378,63 +394,39 @@
       "section": "ucp",
       "title": "repos on github",
       "href": "https://github.com/par-ucp",
-      "label2": "ㅤㅤㅤㅤㅤㅤ",
-      "section2": "ucpsandbox",
-      "href2": "https://ucpsandbox.signin.aws.amazon.com/console",
-      "title2": "AWS Bacon and Eggs,\nA UCP development",
+      "label2": "ㅤㅤㅤㅤㅤㅤㅤㅤㅤ",
+      "section2": "notes",
+      "href2": "https://partechnology.atlassian.net/wiki/spaces/UCP/pages/5235605738/Meeting+notes",
       "links": [
         {
-          "name": "roadmap",
-          "href": "",
+          "name": "northstar",
+          "href": "https://github.com/par-ucp/rome/blob/main/img/2025northstar.png?raw=true",
+          "target": "_ucp",
           "label2": " | ",
           "name2": "wiki",
           "href2": "https://partechnology.atlassian.net/wiki/spaces/UCP/overview",
+          "target2": "_wiki",
           "label3": " | ",
           "name3": "issues",
-          "href3": "https://github.com/orgs/par-ucp/projects?type=new",
+          "href3": "https://partechnology.atlassian.net/jira/core/projects/UCP/list",
           "label4": " | ",
           "name4": "arch",
-          "href4": "https://partechnology.atlassian.net/wiki/spaces/SASS/pages/3629973731/Future+State+Architecture+and+DevOps"
+          "href4": "https://partechnology.atlassian.net/wiki/spaces/UCP/pages/5233868869/Architecture+Playbook"
         },
         {
-          "label": "portals:ㅤ",
-          "name": "brink",
-          "href": "https://devbeucpap.brinkpos.net/Public/Login",
-          "hint": "Bacon and Eggs\nBrink Admin Portal\n(mjg:a-^)",
-          "label2": "ㅤ",
-          "name2": "dc",
-          "href2": "https://dev01.rmdatacentral.com/portal1234/",
-          "hint2": "Bacon and Eggs\nData Central Admin Portal\n(usr@ucp:1-5)",
-          "label3": "ㅤ",
-          "name3": "punchh",
-          "href3": "https://dashboard.us-west.punchh.com/dashboard",
-          "hint3": "okta creds\nglobalpw@punch.com"
+          "name": "",
+          "href": ""
         },
         {
-          "label": "apis:ㅤ ㅤ",
-          "name": " brink",
-          "href": "https://brinkapiportal.brinkpos.net/",
-          "hint": "marc_codemarc",
-          "label2": "ㅤ",
-          "name2": "dc",
-          "href2": "https://dev01.rmdatacentral.com/Portal1234/api/actions/index.html",
-          "label3": "ㅤ",
-          "name3": "punchh",
-          "href3": "https://developers.punchh.com/",
+          "name": "",
+          "href": ""
         },
         {
           "label": "-"
         },
         {
-          "name": "bae arch:",
-          "href": "https://github.com/par-ucp/rome/blob/main/img/bae.png?raw=true",
-          "hint": "What is bacon and eggs",
-          "label2": "ㅤ",
-          "name2": "duce",
-          "href2": "https://github.com/par-ucp/rome/blob/main/img/duce.png?raw=true",
-          "label3": "ㅤ",
-          "name3": "duck",
-          "href3": "https://github.com/par-ucp/rome/blob/main/img/duck.png?raw=true"
+          "name": "",
+          "href": ""
         },
         {
           "name": "",
@@ -443,59 +435,51 @@
       ]
     },
     {
-      "section": "product",
-      "href": "https://docs.google.com/document/d/1FAbJdUbRdljNZ51L6A39xRR9dy3cH0SjZsgxcFrOeqM/edit?usp=sharing",
-      "title": "PAR Product & Technology Onboarding Guide",
+      "section": "bae",
+      "href": "https://github.com/par-ucp/rome/blob/main/img/bae.png?raw=true",
+      "title": "What is Bacon and Eggs?",
+      "label2": "ㅤㅤㅤㅤㅤㅤㅤ",
+      "section2": "ucpsandbox",
+      "href2": "https://ucpsandbox.signin.aws.amazon.com/console",
+      "title2": "AWS Bacon and Eggs,\nA UCP development",
       "links": [
         {
-          "name": "partech dynamics crm",
-          "href": "https://partech.crm.dynamics.com"
+          "name": "Brink Admin Portal",
+          "href": "https://devbeucpap.brinkpos.net/Public/Login",
+          "hint": "Bacon and Eggs\nBrink Admin Portal\n(mjg:a-^)"
         },
         {
-          "name": "latest earnings call transcript",
-          "href": "https://seekingalpha.com/article/4509948-par-technology-corporation-par-ceo-savneet-singh-on-q1-2022-results-earnings-call-transcript",
-          "hint": "Par Technology Corporation (PAR) CEO Savneet Singh on Q1 2022 Results - Earnings Call Transcript"
+          "name": "Data Central Admin",
+          "href": "https://dev01.rmdatacentral.com/portal1234/",
+          "hint": "Bacon and Eggs\nData Central Admin Portal\n(usr@ucp:1-5)"
         },
         {
-          "name": "Org Chart",
-          "href": "https://workforcenow.adp.com/theme/index.html#/Myself_ttd_empOrganizationalChart/empOrganizationalChart"
-        },
-        {
-          "xlabel": "zoom ",
-          "xname": "curated list",
-          "xhref": "https://docs.google.com/document/d/1IFtYWu2ij-0NL0kvmzYHmCq_t5J0PxZ0DKUwjCkDyNY"
-        },
-        {
-          "xname": "brink dev",
-          "xhref": "https://partechnology.atlassian.net/wiki/label/BDEV/onboarding",
-          "xlabel2": " | ",
-          "xname2": "teams",
-          "xhref2": "https://partech-my.sharepoint.com/personal/marc_greenberg_partech_com/Documents/Documents/Par/org/TeamBrink.pdf "
-        },
-        {
-          "xname": "new hire deck (old)",
-          "xhref": "https://partech.sharepoint.com/:p:/r/sites/PARHub-HR/US%20Employee%20Document%20Library/New%20Hire%20On-Boarding%20Hub/New%20Hire%20Guides/New%20Hire%20Onboarding%20Slides.pptx?d=w9e0bc397ee604e9b8c0b68aa070a3973&csf=1&web=1&e=00bAwa"
+          "name2": "Punchh Loyalty Dashboard",
+          "href2": "https://dashboard.us-west.punchh.com/dashboard",
+          "hint2": "okta creds\nglobalpw@punch.com"
         },
         {
           "label": "-"
         },
         {
-          "name": "",
-          "href": ""
+          "label": "baby steps:ㅤ",
+          "name": "duck duck",
+          "href": "https://github.com/par-ucp/rome/blob/main/img/duck.png?raw=true",
+          "label2": "ㅤ",
+          "name2": "duce",
+          "href2": "https://github.com/par-ucp/rome/blob/main/img/duce.png?raw=true"
         },
         {
-          "name": "",
-          "href": ""
+          "name": "bae rancher login (eks)",
+          "href": "https://buck.par.engineering/dashboard/c/local/explorer#cluster-events"
         },
         {
-          "xlabel": "2022/RM ☆ ",
-          "xname": "internal",
-          "xhref": "https://partech-my.sharepoint.com/:p:/p/marc_greenberg/EcXhhSPRNy9FgXZCiwwonbUBsb8n0mjnWJOFG5Avo8vM9Q?e=wjsgCs",
-          "xhint": "2022 Roadmap for Internal Consumption",
-          "xlabel2": " | ",
-          "xname2": "external",
-          "xhref2": "https://partech-my.sharepoint.com/:p:/p/marc_greenberg/EYmXFV5VQYVJuXMyL1K-81gB94o3lm5S3P_SFcJt7yAPhQ?e=IXRAOG",
-          "xhint2": "2022 Roadmap for External Consumption"
+          "xhref1": "https://docs.google.com/document/d/1IFtYWu2ij-0NL0kvmzYHmCq_t5J0PxZ0DKUwjCkDyNY",
+          "xhref2": "https://partechnology.atlassian.net/wiki/label/BDEV/onboarding",
+          "xhref3": "https://partech-my.sharepoint.com/personal/marc_greenberg_partech_com/Documents/Documents/Par/org/TeamBrink.pdf",
+          "xhref4": "https://partech.sharepoint.com/:p:/r/sites/PARHub-HR/US%20Employee%20Document%20Library/New%20Hire%20On-Boarding%20Hub/New%20Hire%20Guides/New%20Hire%20Onboarding%20Slides.pptx?d=w9e0bc397ee604e9b8c0b68aa070a3973&csf=1&web=1&e=00bAwa",
+          "xhref5": "https://partech-my.sharepoint.com/:p:/p/marc_greenberg/EcXhhSPRNy9FgXZCiwwonbUBsb8n0mjnWJOFG5Avo8vM9Q?e=wjsgCs",
+          "xhref6": "https://partech-my.sharepoint.com/:p:/p/marc_greenberg/EYmXFV5VQYVJuXMyL1K-81gB94o3lm5S3P_SFcJt7yAPhQ?e=IXRAOG"
         },
         {
           "xname": "payments roadmap",
@@ -509,6 +493,9 @@
     {
       "section": "developer",
       "href": "#",
+      "label2": "ㅤㅤㅤㅤ",
+      "section2": "api portal",
+      "href2": "https://partech.com/login/",
       "links": [
         {
           "name": "microsoft",
