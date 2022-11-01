@@ -1,11 +1,15 @@
-{
-  "version": "0.0.12",
-  "message": "Unifying, Rather Than Integrating, Yields Tangible Market Value",
+ㅤ{
+  "version": "0.0.14",
+  "message": "UCP - How do you eat an elephant, one bite at a time!",
   "config": [
     {
       "section": "communicate",
       "href": "https://web.microsoftstream.com/browse?view=channel",
       "title": "Company Meetings",
+      "label2": "ㅤㅤㅤ",
+      "href2": "https://myapps.microsoft.com",
+      "section2": "myapps",
+      "title2": "Par Technology Corporation (PAR) CEO Savneet Singh on Q1 2022 Results - Earnings Call Transcript",
       "links": [
         {
           "name": "zoom",
@@ -99,7 +103,7 @@
     {
       "section": "learning",
       "href": "https://github.com/codemarc/ntmfs",
-      "label2": "ㅤㅤㅤ",
+      "label2": "ㅤㅤㅤㅤ",
       "section2": "earnings call",
       "href2": "https://seekingalpha.com/article/4509948-par-technology-corporation-par-ceo-savneet-singh-on-q1-2022-results-earnings-call-transcript",
       "hint2": "Par Technology Corporation (PAR) CEO Savneet Singh on Q1 2022 Results - Earnings Call Transcript",
@@ -349,7 +353,7 @@
       "section": "menu",
       "title": "A PAR Technology Company",
       "href": "https://www.menu.app/",
-      "label2": "ㅤㅤㅤㅤㅤ",
+      "label2": "ㅤㅤㅤㅤㅤㅤ",
       "section2": "mmc - dash",
       "href2": "https://manage-demo.menu.app/brands/111/analytics-performance/",
       "links": [
@@ -368,25 +372,48 @@
         },
         {
           "name": "cms",
-          "href": "https://cms-us.menu.app",
+          "href": "https://cms-demo.menu.app/",
+          "target": "_menu",
           "label2": " | ",
           "name2": "manage",
-          "href2": "https://manage-us.menu.app/"
+          "href2": "https://manage-demo.menu.app/login",
+          "target2": "_menu",
+          "label3": " | ",
+          "name3": "customize",
+          "href3": "https://customization.menu.app/",
+          "target3": "_menu"
         },
         {
-          "name": "",
-          "href": ""
+          "label": "ㅤㅤㅤ",
+          "name": "support",
+          "href": "https://support.menu.app/hc/en-us",
+          "target": "_menu",
+          "label2": " | ",
+          "name2": "campus",
+          "href2": "https://campus.menu.app/campus/",
+          "target2": "_menu"
         },
         {
           "label": "-"
         },
         {
-          "name": "product demo",
-          "href": "https://drive.google.com/file/d/1GP_eqpO_neIWdlddkvvaIXpENh7Ivrnw/view?usp=sharing"
+          "label": "demos:ㅤㅤ",
+          "name": "web",
+          "href": "https://webapp-demo-punchh.menu.app/",
+          "label2": " | ",
+          "name2": "ios",
+          "href2": "https://drive.google.com/file/d/1nxzvsLydrms9KY8hjJps30_j4lumkd7R/view?usp=sharing",
+          "label3": " | ",
+          "name3": "droid",
+          "href3": "https://drive.google.com/file/d/18yjM7TAutdmXS9XU3HjA5g9S_sDos2HI/view"
         },
         {
-          "name": "white label front end demo",
-          "href": "https://drive.google.com/file/d/1xmjvVCKOTdNcMxY9z6AMztln8eOv4MtM/view?usp=sharing"
+          "label": "videos: ",
+          "name": "ㅤnewhire",
+          "href": "https://drive.google.com/file/d/1GP_eqpO_neIWdlddkvvaIXpENh7Ivrnw/view?usp=sharing",
+          "label2": " | ",
+          "name2": "white label",
+          "href2": "https://drive.google.com/file/d/1xmjvVCKOTdNcMxY9z6AMztln8eOv4MtM/view?usp=sharing"
         }
       ]
     },
@@ -394,7 +421,7 @@
       "section": "ucp",
       "title": "repos on github",
       "href": "https://github.com/par-ucp",
-      "label2": "ㅤㅤㅤㅤㅤㅤㅤㅤ",
+      "label2": "ㅤㅤㅤㅤㅤㅤㅤㅤㅤ",
       "section2": "notes",
       "href2": "https://partechnology.atlassian.net/wiki/spaces/UCP/pages/5235605738/Meeting+notes",
       "links": [
@@ -414,8 +441,8 @@
           "href4": "https://partechnology.atlassian.net/wiki/spaces/UCP/pages/5233868869/Architecture+Playbook"
         },
         {
-          "name": "",
-          "href": ""
+          "name": "aha",
+          "href": "https://par-tech.aha.io/products/UC/feature_cards"
         },
         {
           "name": "",
@@ -438,7 +465,7 @@
       "section": "bae",
       "href": "https://github.com/par-ucp/rome/blob/main/img/bae.png?raw=true",
       "title": "What is Bacon and Eggs?",
-      "label2": "ㅤㅤㅤㅤㅤㅤ",
+      "label2": "ㅤㅤㅤㅤㅤㅤㅤ",
       "section2": "ucpsandbox",
       "href2": "https://ucpsandbox.signin.aws.amazon.com/console",
       "title2": "AWS Bacon and Eggs,\nA UCP development",
@@ -462,7 +489,7 @@
           "label": "-"
         },
         {
-          "label": "baby steps: ",
+          "label": "baby steps:ㅤ",
           "name": "duck duck",
           "href": "https://github.com/par-ucp/rome/blob/main/img/duck.png?raw=true",
           "label2": "ㅤ",
