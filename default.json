@@ -9,7 +9,6 @@
       "label2": "ㅤㅤㅤ",
       "href2": "https://myapps.microsoft.com",
       "section2": "myapps",
-      "title2": "Par Technology Corporation (PAR) CEO Savneet Singh on Q1 2022 Results - Earnings Call Transcript",
       "links": [
         {
           "name": "zoom",
@@ -70,16 +69,36 @@
           "href4": "https://resources.github.com/github-insider/practitioner/"
         },
         {
+          "name": "",
+          "href": ""
+        },
+        {
+          "label": "ㅤㅤ",
           "name": "gh:me",
           "href": "https://github.com",
           "label2": " | ",
           "name2": "par",
           "href2": "https://github.com/enterprises/par-technology",
           "label3": " | ",
-          "name3": "punchh",
-          "href3": "https://github.com/punchh/",
+          "name3": "ucp",
+          "href3": "https://github.com/orgs/par-ucp/repositories",
           "label4": " | ",
-          "name4": "status"
+          "name4": "status",
+          "href4": "https://www.githubstatus.com/"
+        },
+        {
+          "label": "  ㅤ",
+          "name": "brink",
+          "href": "https://github.com/orgs/par-brink/repositories",
+          "label2": " | ",
+          "name2": "dc",
+          "href2": "https://accsysinc.visualstudio.com/",
+          "label3": " | ",
+          "name3": "puchh",
+          "href3": "https://github.com/orgs/punchh/repositories",
+          "label4": " | ",
+          "name4": "menu",
+          "href4": ""
         },
         {
           "label": "-"
@@ -87,16 +106,15 @@
         {
           "name": "miro",
           "href": "https://miro.com/app/dashboard/",
-          "label2": "ㅤㅤㅤㅤㅤㅤㅤ",
-          "name2": "bitbucket",
-          "href2": "https://devops.partech.com/bitbucket/projects"
-        },
-        {
-          "label": "-"
-        },
-        {
-          "name": "dynamics crm",
-          "href": "https://partech.crm.dynamics.com"
+          "label2": " | ",
+          "name2": "aha",
+          "href2": "https://par-tech.aha.io/products/UC/feature_cards",
+          "label3": " | ",
+          "name3": "bb",
+          "href3": "https://devops.partech.com/bitbucket/projects",
+          "label4": " | ",
+          "name4": "dynamics crm",
+          "href4": "https://partech.crm.dynamics.com"
         }
       ]
     },
@@ -420,7 +438,7 @@
     {
       "section": "ucp",
       "title": "repos on github",
-      "href": "https://github.com/par-ucp",
+      "href": "https://github.com/orgs/par-ucp/repositories",
       "label2": "ㅤㅤㅤㅤㅤㅤㅤㅤㅤ",
       "section2": "notes",
       "href2": "https://partechnology.atlassian.net/wiki/spaces/UCP/pages/5235605738/Meeting+notes",
@@ -441,8 +459,8 @@
           "href4": "https://partechnology.atlassian.net/wiki/spaces/UCP/pages/5233868869/Architecture+Playbook"
         },
         {
-          "name": "aha",
-          "href": "https://par-tech.aha.io/products/UC/feature_cards"
+          "name": "",
+          "href": ""
         },
         {
           "name": "",
@@ -486,7 +504,8 @@
           "hint2": "okta creds\nglobalpw@punch.com"
         },
         {
-          "label": "-"
+          "name": "Menu Cms - for Bae",
+          "href": "https://cms-demo.menu.app"
         },
         {
           "label": "baby steps:ㅤ",
